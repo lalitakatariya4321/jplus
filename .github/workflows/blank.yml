@@ -1,0 +1,45 @@
+# This is a basic workflow to help you get started with Actions
+
+name: ms3uUpdater
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: '* 21 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+defaults:
+    run:
+      shell: bash
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: download file
+        run: curl -s -O "https://${{secrets.TOKEN}}@raw.githubusercontent.com/AjitGE/Daily-tata-sky/main/code_samples/allChannelPlaylist.m3u"
+      
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A allChannelPlaylist.m3u
+          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{secrets.ACCESSTOKEN }}
+          branch: main
+     
+      

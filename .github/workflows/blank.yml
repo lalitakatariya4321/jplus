@@ -4,6 +4,10 @@ name: ms3uUpdater
 
 # Controls when the workflow will run
 on:
+  workflow_run:
+    workflows: ["TataSkyDaily"]
+    types:
+      - completed
   schedule:
     - cron: '0 12,0 * * *'
   # Allows you to run this workflow manually from the Actions tab

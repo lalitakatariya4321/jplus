@@ -133,9 +133,10 @@ https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manife
 #EXTINF:-1 tvg-id="ts556" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" ,SET
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{"kty":"oct","k":"j4qDQZ6LuY2nHnbrJisucQ","kid":"I0J1O/bxUAKsBgJqIekD8g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts557" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png" ,Zee TV
-https://vercel-app-ajitge.vercel.app/api?c=0-9-zeetv
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XP1qK3kaq1lMJnWXh2lqzw","kid":"JfrlWhOSXsm9lGJ96T/rug"}],"type":"temporary"}

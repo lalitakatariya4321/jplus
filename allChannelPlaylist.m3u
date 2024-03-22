@@ -469,10 +469,13 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manife
 https://tataplay.code-crafters.app/channel/ts78.mpd
 
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="⚽ Sports",IPL English HD
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_iosmob_avc_eng_ipl_s1_m1220324/master.m3u8
+https://prod-ent-live-gm.jiocinema.86m//hls/live/2100321/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1220324/index.m3u8
 
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="⚽ Sports",IPL HINDI HD
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_iosmob_avc_hin_ipl_s1_m1220324/master.m3u8
+https://prod-ent-live-gm.jiocinema.86m//hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1220324/index.m3u8
+
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="⚽ Sports",IPL BHOJPURI HD
+https://prod-ent-live-gm.jiocinema.86m//hls/live/2100321/uhd_akamai_atv_bkp_avc_bhoj_ipl_s1_m1220324/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "T/rP47M1r2zYR12HQCvvQw", "kid": "4wEbJGJRX9KFGPYCUON/FA"}], "type": "temporary"}

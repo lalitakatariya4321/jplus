@@ -1,12 +1,12 @@
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="⚽ Sports",IPL English HD
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="🏏 IPL",English HD
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1220324/index.m3u8
 
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="⚽ Sports",IPL HINDI HD
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="🏏 IPL",HINDI HD
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1220324/index.m3u8
 
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="⚽ Sports",IPL BHOJPURI HD
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="🏏 IPL",BHOJPURI HD
 https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m1220324/master.m3u8
 

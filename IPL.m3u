@@ -1,13 +1,9 @@
-#EXTINF:-1 tvg-id="iplt20.com" tvg-logo="https://www.cricwall.com/wp-content/uploads/2022/04/IPL-Logo-PNG-1.png" group-title="🏏 Cricket",IPL Live ENGLISH
+#-*--IPL live--*-#
+#EXTINF:-1 tvg-logo="https://www.cricwall.com/wp-content/uploads/2022/04/IPL-Logo-PNG-1.png" group-title="🏏 Cricket",IPL Live ENGLISH
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_iosmob_avc_eng_ipl_s1_m1220324/master.m3u8
-
-#EXTINF:-1 tvg-id="iplt20.com" tvg-logo="https://www.cricwall.com/wp-content/uploads/2022/04/IPL-Logo-PNG-1.png" group-title="🏏 Cricket",IPL Live HINDI
+#EXTINF:-1 tvg-logo="https://www.cricwall.com/wp-content/uploads/2022/04/IPL-Logo-PNG-1.png" group-title="🏏 Cricket",IPL Live HINDI
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_iosmob_avc_hin_ipl_s1_m1220324/master.m3u8
-
-
-#EXTINF:-1 tvg-id="iplt20.com" tvg-logo="https://www.cricwall.com/wp-content/uploads/2022/04/IPL-Logo-PNG-1.png" group-title="🏏 Cricket", IPL Live BHOJPURI 
+#EXTINF:-1 tvg-logo="https://www.cricwall.com/wp-content/uploads/2022/04/IPL-Logo-PNG-1.png" group-title="🏏 Cricket", IPL Live BHOJPURI 
 https://prod-sports-south-gm.jiocinema.com/hls/live/2109762/hd_akamai_androidmob_avc_bhoj_ipl_s1_m1220324/master.m3u8
-
-
-#EXTINF:-1 tvg-id="iplt20.com" tvg-logo="https://www.cricwall.com/wp-content/uploads/2022/04/IPL-Logo-PNG-1.png" group-title="🏏 Cricket",IPL Live PUNJABI 
+#EXTINF:-1 tvg-logo="https://www.cricwall.com/wp-content/uploads/2022/04/IPL-Logo-PNG-1.png" group-title="🏏 Cricket",IPL Live PUNJABI 
 https://prod-sports-south-gm.jiocinema.com/hls/live/2109756/hd_akamai_iosmob_avc_punj_ipl_s1_m1220324/master.m3u8

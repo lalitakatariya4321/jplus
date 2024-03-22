@@ -475,7 +475,7 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_e
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1220324/index.m3u8
 
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" group-title="⚽ Sports",IPL BHOJPURI HD
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_bkp_avc_bhoj_ipl_s1_m1220324/index.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m1220324/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "T/rP47M1r2zYR12HQCvvQw", "kid": "4wEbJGJRX9KFGPYCUON/FA"}], "type": "temporary"}

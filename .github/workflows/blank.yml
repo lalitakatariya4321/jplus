@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: download file
-        run: curl -s -O "https://${{secrets.TOKEN}}@raw.githubusercontent.com/AjitGE/playList/main/allChannelPlaylist.m3u"
+        run: curl -s -O "https://${{secrets.PLAYLIST}}@raw.githubusercontent.com/AjitGE/playList/main/allChannelPlaylist.m3u"
 
       - name: commit files
         run: |

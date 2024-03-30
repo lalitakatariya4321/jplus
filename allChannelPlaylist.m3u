@@ -4,7 +4,7 @@
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Type: India | Geo-blocked
-# (●) Last Update: 2024-03-30 16:15:46 IST
+# (●) Last Update: 2024-03-30 17:55:43 IST
 # (●) Total Channels: 695
 # (●) Join: https://t.me/realcodecrafters
 
@@ -293,7 +293,7 @@ https://bpprod2live.akamaized.net/bpk-tv/irdeto_com_Channel_2045/output/manifest
 https://tataplay.code-crafters.app/channel/ts741.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "+kRlmYUjES2n0HF7OJl6+A", "kid": "BlBMdpEJUiOurSenWnrhaA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kybbYQZNYAZ07VeeiYCJBg", "kid": "y0/y1BdtV/mD0A5BQHW5Gg"}], "type": "temporary"}
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="🎬 Movies",Zee Cinema HD
 https://tataplay.code-crafters.app/channel/ts503.mpd
 
@@ -3348,11 +3348,11 @@ https://cable68tataplay.akamaized.net/HaryanaBuzz/myStream/manifest.mpd
 https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/manifest.mpd
 
 #EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,ENGLISH 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m12100324/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1300324/index.m3u8
 
 #EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,HINDI 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m12100324/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1300324/index.m3u8
 
 #EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,BHOJPURI 4K
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m12100324/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m1300324/master.m3u8
 

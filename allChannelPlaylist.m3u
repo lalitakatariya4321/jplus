@@ -4,7 +4,7 @@
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Type: India | Geo-blocked
-# (●) Last Update: 2024-03-30 14:35:40 IST
+# (●) Last Update: 2024-03-30 16:15:46 IST
 # (●) Total Channels: 695
 # (●) Join: https://t.me/realcodecrafters
 
@@ -1508,6 +1508,8 @@ https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_1943/output/manifest
 #EXTINF:-1 tvg-id="ts330" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11351-j9jpmdvc-v1/imageContent-11351-j9jpmdvc-m1.png" group-title="🌟 Regional Hindi",DD Madhya Pradesh
 https://bpprod6live.akamaized.net/bpk-tv/irdeto_com_Channel_511/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "GLhkN58VHO+vqKm12sckaA", "kid": "fFl8/qt8UO66O6bZafGwEA"}], "type": "temporary"}
 #EXTINF:-1 tvg-id="ts205" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23226-jeyiac80-v1/imageContent-23226-jeyiac80-m1.png" group-title="🌟 Regional Hindi",News18 Rajasthan
 https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_141/output/manifest.mpd
 

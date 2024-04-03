@@ -4,7 +4,7 @@
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Type: TATAPLAY | (India) Geo-blocked
-# (●) Last Update: 2024-04-03 21:13:52 IST
+# (●) Last Update: 2024-04-03 22:13:52 IST
 # (●) Total Channels: 695
 # (●) Join: https://t.me/realcodecrafters
 
@@ -1010,8 +1010,6 @@ https://tataplay.code-crafters.app/manifest/816.mpd
 #EXTINF:-1 tvg-id="ts137" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png" group-title="🧠 Knowledge",National Geographic
 https://tataplay.code-crafters.app/manifest/137.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/167
 #EXTINF:-1 tvg-id="ts167" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-703-j5l1wgco-v2/imageContent-703-j5l1wgco-m2.png" group-title="🧠 Knowledge",Tata Play Vedic Maths
 https://tataplay.code-crafters.app/manifest/167.mpd
 
@@ -1700,8 +1698,6 @@ https://tataplay.code-crafters.app/manifest/522.mpd
 #EXTINF:-1 tvg-id="ts34" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="🌟 Regional Bengali",SONY AATH
 https://tataplay.code-crafters.app/manifest/34.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/995
 #EXTINF:-1 tvg-id="ts995" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png" group-title="📺 Cartoons",Tata Play Toons+
 https://tataplay.code-crafters.app/manifest/995.mpd
 

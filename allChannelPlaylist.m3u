@@ -4,7 +4,7 @@
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Type: TATAPLAY | (India) Geo-blocked
-# (●) Last Update: 2024-04-03 19:13:52 IST
+# (●) Last Update: 2024-04-03 20:17:52 IST
 # (●) Total Channels: 696
 # (●) Join: https://t.me/realcodecrafters
 
@@ -694,8 +694,6 @@ https://tataplay.code-crafters.app/manifest/1084.mpd
 #EXTINF:-1 tvg-id="ts286" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17573-jclve4rc-v1/imageContent-17573-jclve4rc-m1.png" group-title="📰 News",APN News
 https://tataplay.code-crafters.app/manifest/286.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/669
 #EXTINF:-1 tvg-id="ts669" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INAH_Thumbnail-v3/INAH_Thumbnail.png" group-title="📰 News",India Ahead
 https://tataplay.code-crafters.app/manifest/669.mpd
 

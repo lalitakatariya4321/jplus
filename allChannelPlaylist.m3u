@@ -4,7 +4,7 @@
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Type: TATAPLAY | (India) Geo-blocked
-# (●) Last Update: 2024-04-04 04:19:52 IST
+# (●) Last Update: 2024-04-04 05:15:52 IST
 # (●) Total Channels: 695
 # (●) Join: https://t.me/realcodecrafters
 
@@ -353,8 +353,6 @@ https://tataplay.code-crafters.app/manifest/730.mpd
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png" group-title="🎬 Movies",Zee Action
 https://tataplay.code-crafters.app/manifest/100.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1003
 #EXTINF:-1 tvg-id="ts1003" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72254-l6dn8nco-v3/imageContent-72254-l6dn8nco-m4.png" group-title="🎬 Movies",Tata Play South Talkies
 https://tataplay.code-crafters.app/manifest/1003.mpd
 

@@ -4,7 +4,7 @@
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Type: TATAPLAY | (India) Geo-blocked
-# (●) Last Update: 2024-04-05 15:50:08 UTC
+# (●) Last Update: 2024-04-05 16:20:14 UTC
 # (●) Total Channels: 695
 # (●) Join: https://t.me/realcodecrafters
 
@@ -3272,11 +3272,11 @@ https://cable68tataplay.akamaized.net/HaryanaBuzz/myStream/manifest.mpd
 https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/manifest.mpd
 
 #EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,ENGLISH 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100307/uhd_akamai_atv_avc_eng_ipl_s2_m2310324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/044ed31ae2974aadb03b5c5e9a67ab06/master.m3u8
 
 #EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,HINDI 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100327/uhd_akamai_atv_bkp_avc_hin_ipl_s2_m2310324/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/81e640e5a2c74eb98201959a31a008a3/master.m3u8
 
 #EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,BHOJPURI 4K
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109731/uhd_akamai_atv_avc_bhoj_ipl_s2_m2310324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/84c3b9702e7a48659e79bf577bd8f497/master.m3u8
 

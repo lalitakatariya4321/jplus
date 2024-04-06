@@ -4,7 +4,7 @@
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Type: TATAPLAY | (India) Geo-blocked
-# (●) Last Update: 2024-04-06 20:11:49 UTC
+# (●) Last Update: 2024-04-06 21:11:44 UTC
 # (●) Total Channels: 695
 # (●) Join: https://t.me/realcodecrafters
 
@@ -26,6 +26,8 @@ https://delta45tatasky.akamaized.net/out/i/722.mpd
 #EXTINF:-1 tvg-id="ts121" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png" group-title="💼 Lifestyle",Tata Play Fitness
 https://tataplay.code-crafters.app/manifest/121.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/618
 #EXTINF:-1 tvg-id="ts618" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png" group-title="💼 Lifestyle",Tata Play Beauty
 https://tataplay.code-crafters.app/manifest/618.mpd
 
@@ -38,11 +40,6 @@ https://tataplay.code-crafters.app/manifest/959.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/641
 #EXTINF:-1 tvg-id="ts641" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png" group-title="💼 Lifestyle",Tata Play Cooking
 https://tataplay.code-crafters.app/manifest/641.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/8
-#EXTINF:-1 tvg-id="ts8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="🎭 Entertainment",STAR Plus HD
-https://tataplay.code-crafters.app/manifest/8.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/244
@@ -58,6 +55,11 @@ https://tataplay.code-crafters.app/manifest/15.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/556
 #EXTINF:-1 tvg-id="ts556" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" group-title="🎭 Entertainment",SET
 https://tataplay.code-crafters.app/manifest/556.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/8
+#EXTINF:-1 tvg-id="ts8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="🎭 Entertainment",STAR Plus HD
+https://tataplay.code-crafters.app/manifest/8.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/48
@@ -95,24 +97,24 @@ https://tataplay.code-crafters.app/manifest/557.mpd
 https://tataplay.code-crafters.app/manifest/811.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/543
-#EXTINF:-1 tvg-id="ts543" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png" group-title="🎭 Entertainment",Colors
-https://tataplay.code-crafters.app/manifest/543.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/52
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="🎭 Entertainment",Colors HD
 https://tataplay.code-crafters.app/manifest/52.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/95
-#EXTINF:-1 tvg-id="ts95" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-304-j5ji9otc-v2/imageContent-304-j5ji9otc-m2.png" group-title="🎭 Entertainment",Tata Play Javed Akhtar
-https://tataplay.code-crafters.app/manifest/95.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/543
+#EXTINF:-1 tvg-id="ts543" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png" group-title="🎭 Entertainment",Colors
+https://tataplay.code-crafters.app/manifest/543.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/943
 #EXTINF:-1 tvg-id="ts943" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65443-kty2tkwo-v2/imageContent-65443-kty2tkwo-m2.png" group-title="🎭 Entertainment",Tata Play Videshi Kahaniyan
 https://tataplay.code-crafters.app/manifest/943.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/95
+#EXTINF:-1 tvg-id="ts95" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-304-j5ji9otc-v2/imageContent-304-j5ji9otc-m2.png" group-title="🎭 Entertainment",Tata Play Javed Akhtar
+https://tataplay.code-crafters.app/manifest/95.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/964
@@ -158,6 +160,11 @@ https://tataplay.code-crafters.app/manifest/438.mpd
 https://tataplay.code-crafters.app/manifest/554.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/297
+#EXTINF:-1 tvg-id="ts297" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png" group-title="🎭 Entertainment",Big Magic
+https://tataplay.code-crafters.app/manifest/297.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/54
 #EXTINF:-1 tvg-id="ts54" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-150-j5frd0jc-v3/imageContent-150-j5frd0jc-m5.png" group-title="🎭 Entertainment",The Q
 https://tataplay.code-crafters.app/manifest/54.mpd
@@ -166,11 +173,6 @@ https://tataplay.code-crafters.app/manifest/54.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/51
 #EXTINF:-1 tvg-id="ts51" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png" group-title="🎭 Entertainment",Dangal
 https://tataplay.code-crafters.app/manifest/51.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/297
-#EXTINF:-1 tvg-id="ts297" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png" group-title="🎭 Entertainment",Big Magic
-https://tataplay.code-crafters.app/manifest/297.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/180
@@ -201,19 +203,14 @@ https://tataplay.code-crafters.app/manifest/1045.mpd
 https://tataplay.code-crafters.app/manifest/965.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/191
-#EXTINF:-1 tvg-id="ts191" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png" group-title="🎭 Entertainment",DD National
-https://tataplay.code-crafters.app/manifest/191.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1269
 #EXTINF:-1 tvg-id="ts1269" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHUMBKTV_Thumbnail-v2/CHUMBKTV_Thumbnail.png" group-title="🎭 Entertainment",Chumbak TV
 https://tataplay.code-crafters.app/manifest/1269.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/808
-#EXTINF:-1 tvg-id="ts808" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49809-k7454ppk-v3/imageContent-49809-k7454ppk-m6.png" group-title="🎭 Entertainment",Tata Play Hits
-https://tataplay.code-crafters.app/manifest/808.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/191
+#EXTINF:-1 tvg-id="ts191" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png" group-title="🎭 Entertainment",DD National
+https://tataplay.code-crafters.app/manifest/191.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/326
@@ -221,19 +218,24 @@ https://tataplay.code-crafters.app/manifest/808.mpd
 https://tataplay.code-crafters.app/manifest/326.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/808
+#EXTINF:-1 tvg-id="ts808" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49809-k7454ppk-v3/imageContent-49809-k7454ppk-m6.png" group-title="🎭 Entertainment",Tata Play Hits
+https://tataplay.code-crafters.app/manifest/808.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/187
 #EXTINF:-1 tvg-id="ts187" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png" group-title="🎭 Entertainment",Colors Infinity HD
 https://tataplay.code-crafters.app/manifest/187.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/307
-#EXTINF:-1 tvg-id="ts307" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png" group-title="🎭 Entertainment",Comedy Central HD
-https://tataplay.code-crafters.app/manifest/307.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/306
 #EXTINF:-1 tvg-id="ts306" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11293-j9j5u4o0-v3/imageContent-11293-j9j5u4o0-m2.png" group-title="🎭 Entertainment",Comedy Central
 https://tataplay.code-crafters.app/manifest/306.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/307
+#EXTINF:-1 tvg-id="ts307" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png" group-title="🎭 Entertainment",Comedy Central HD
+https://tataplay.code-crafters.app/manifest/307.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1101
@@ -256,11 +258,6 @@ https://tataplay.code-crafters.app/manifest/486.mpd
 https://tataplay.code-crafters.app/manifest/789.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1130
-#EXTINF:-1 tvg-id="ts1130" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BMSLA_Thumbnail-v2/BMSLA_Thumbnail.png" group-title="🎬 Movies",Tata Play Bollywood Masala
-https://tataplay.code-crafters.app/manifest/1130.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/245
 #EXTINF:-1 tvg-id="ts245" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="🎬 Movies",STAR GOLD HD
 https://tataplay.code-crafters.app/manifest/245.mpd
@@ -269,19 +266,24 @@ https://tataplay.code-crafters.app/manifest/245.mpd
 https://delta10tatasky.akamaized.net/out/i/5771658.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1130
+#EXTINF:-1 tvg-id="ts1130" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BMSLA_Thumbnail-v2/BMSLA_Thumbnail.png" group-title="🎬 Movies",Tata Play Bollywood Masala
+https://tataplay.code-crafters.app/manifest/1130.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/80
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="🎬 Movies",SONY MAX HD
 https://tataplay.code-crafters.app/manifest/80.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1258
-#EXTINF:-1 tvg-id="ts1258" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCLC2_Thumbnail-v2/TPCLC2_Thumbnail.png" group-title="🎬 Movies",Tata Play Classic Cinema 2
-https://tataplay.code-crafters.app/manifest/1258.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/132
 #EXTINF:-1 tvg-id="ts132" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="🎬 Movies",SONY MAX
 https://tataplay.code-crafters.app/manifest/132.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1258
+#EXTINF:-1 tvg-id="ts1258" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCLC2_Thumbnail-v2/TPCLC2_Thumbnail.png" group-title="🎬 Movies",Tata Play Classic Cinema 2
+https://tataplay.code-crafters.app/manifest/1258.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/741
@@ -304,14 +306,14 @@ https://tataplay.code-crafters.app/manifest/123.mpd
 https://tataplay.code-crafters.app/manifest/175.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/666
-#EXTINF:-1 tvg-id="ts666" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png" group-title="🎬 Movies",Tata Play Theatre HD
-https://tataplay.code-crafters.app/manifest/666.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/727
 #EXTINF:-1 tvg-id="ts727" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png" group-title="🎬 Movies",Zee Classic
 https://tataplay.code-crafters.app/manifest/727.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/666
+#EXTINF:-1 tvg-id="ts666" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png" group-title="🎬 Movies",Tata Play Theatre HD
+https://tataplay.code-crafters.app/manifest/666.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/267
@@ -319,14 +321,14 @@ https://tataplay.code-crafters.app/manifest/727.mpd
 https://tataplay.code-crafters.app/manifest/267.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/148
+#EXTINF:-1 tvg-id="ts148" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="🎬 Movies",&pictures
+https://tataplay.code-crafters.app/manifest/148.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1183
 #EXTINF:-1 tvg-id="ts1183" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="🎬 Movies",&Xplor HD
 https://tataplay.code-crafters.app/manifest/1183.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/61
-#EXTINF:-1 tvg-id="ts61" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="🎬 Movies",Colors Cineplex HD
-https://tataplay.code-crafters.app/manifest/61.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/677
@@ -334,15 +336,17 @@ https://tataplay.code-crafters.app/manifest/61.mpd
 https://tataplay.code-crafters.app/manifest/677.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/61
+#EXTINF:-1 tvg-id="ts61" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="🎬 Movies",Colors Cineplex HD
+https://tataplay.code-crafters.app/manifest/61.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/53
 #EXTINF:-1 tvg-id="ts53" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png" group-title="🎬 Movies",Colors Cineplex
 https://tataplay.code-crafters.app/manifest/53.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/148
-#EXTINF:-1 tvg-id="ts148" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="🎬 Movies",&pictures
-https://tataplay.code-crafters.app/manifest/148.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/730
 #EXTINF:-1 tvg-id="ts730" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_Thumbnail-v5/B4UKad_Thumbnail.png" group-title="🎬 Movies",B4U Kadak
 https://tataplay.code-crafters.app/manifest/730.mpd
 
@@ -397,14 +401,14 @@ https://tataplay.code-crafters.app/manifest/296.mpd
 https://tataplay.code-crafters.app/manifest/64.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1000
-#EXTINF:-1 tvg-id="ts1000" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="🎬 Movies",Colors Cineplex Bollywood
-https://tataplay.code-crafters.app/manifest/1000.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1117
 #EXTINF:-1 tvg-id="ts1117" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ABZYMovies_Thumbnail-v1/ABZYMovies_Thumbnail.png" group-title="🎬 Movies",ABZY Movies
 https://tataplay.code-crafters.app/manifest/1117.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1000
+#EXTINF:-1 tvg-id="ts1000" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="🎬 Movies",Colors Cineplex Bollywood
+https://tataplay.code-crafters.app/manifest/1000.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/823
@@ -417,11 +421,6 @@ https://tataplay.code-crafters.app/manifest/823.mpd
 https://tataplay.code-crafters.app/manifest/731.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/234
-#EXTINF:-1 tvg-id="ts234" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1017-j5ngpo2g-v1/imageContent-1017-j5ngpo2g-m1.png" group-title="🎬 Movies",MNX
-https://tataplay.code-crafters.app/manifest/234.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/173
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="🎬 Movies",Movies Now
 https://tataplay.code-crafters.app/manifest/173.mpd
@@ -430,6 +429,11 @@ https://tataplay.code-crafters.app/manifest/173.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/32
 #EXTINF:-1 tvg-id="ts32" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="🎬 Movies",SONY PIX HD
 https://tataplay.code-crafters.app/manifest/32.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/234
+#EXTINF:-1 tvg-id="ts234" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1017-j5ngpo2g-v1/imageContent-1017-j5ngpo2g-m1.png" group-title="🎬 Movies",MNX
+https://tataplay.code-crafters.app/manifest/234.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/558
@@ -447,14 +451,14 @@ https://tataplay.code-crafters.app/manifest/210.mpd
 https://tataplay.code-crafters.app/manifest/562.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/599
-#EXTINF:-1 tvg-id="ts599" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" group-title="🎬 Movies",MNX HD
-https://tataplay.code-crafters.app/manifest/599.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/174
 #EXTINF:-1 tvg-id="ts174" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png" group-title="🎬 Movies",Romedy Now
 https://tataplay.code-crafters.app/manifest/174.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/599
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" group-title="🎬 Movies",MNX HD
+https://tataplay.code-crafters.app/manifest/599.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/223
@@ -487,6 +491,11 @@ https://tataplay.code-crafters.app/manifest/246.mpd
 https://tataplay.code-crafters.app/manifest/463.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/150
+#EXTINF:-1 tvg-id="ts150" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="⚽ Sports",SONY SPORTS TEN 1
+https://tataplay.code-crafters.app/manifest/150.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/81
 #EXTINF:-1 tvg-id="ts81" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="⚽ Sports",SONY SPORTS TEN 1 HD
 https://tataplay.code-crafters.app/manifest/81.mpd
@@ -495,11 +504,6 @@ https://tataplay.code-crafters.app/manifest/81.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/462
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="⚽ Sports",SONY SPORTS TEN 2 HD
 https://tataplay.code-crafters.app/manifest/462.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/150
-#EXTINF:-1 tvg-id="ts150" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="⚽ Sports",SONY SPORTS TEN 1
-https://tataplay.code-crafters.app/manifest/150.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/170
@@ -512,6 +516,11 @@ https://tataplay.code-crafters.app/manifest/170.mpd
 https://tataplay.code-crafters.app/manifest/171.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/464
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="⚽ Sports",SONY SPORTS TEN 3 HD
+https://tataplay.code-crafters.app/manifest/464.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/35
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="⚽ Sports",SONY SPORTS TEN 5 HD
 https://tataplay.code-crafters.app/manifest/35.mpd
@@ -522,19 +531,14 @@ https://tataplay.code-crafters.app/manifest/35.mpd
 https://tataplay.code-crafters.app/manifest/1033.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/464
-#EXTINF:-1 tvg-id="ts464" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="⚽ Sports",SONY SPORTS TEN 3 HD
-https://tataplay.code-crafters.app/manifest/464.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/980
+#EXTINF:-1 tvg-id="ts980" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png" group-title="⚽ Sports",Sports 18 - 1
+https://tataplay.code-crafters.app/manifest/980.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/812
 #EXTINF:-1 tvg-id="ts812" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="⚽ Sports",Eurosport HD
 https://tataplay.code-crafters.app/manifest/812.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/980
-#EXTINF:-1 tvg-id="ts980" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png" group-title="⚽ Sports",Sports 18 - 1
-https://tataplay.code-crafters.app/manifest/980.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/693
@@ -552,14 +556,14 @@ https://tataplay.code-crafters.app/manifest/691.mpd
 https://tataplay.code-crafters.app/manifest/322.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/783
-#EXTINF:-1 tvg-id="ts783" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png" group-title="🧠 Knowledge",Tata Play Seniors
-https://tataplay.code-crafters.app/manifest/783.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/177
 #EXTINF:-1 tvg-id="ts177" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png" group-title="📰 News",ABP News
 https://tataplay.code-crafters.app/manifest/177.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/783
+#EXTINF:-1 tvg-id="ts783" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png" group-title="🧠 Knowledge",Tata Play Seniors
+https://tataplay.code-crafters.app/manifest/783.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/179
@@ -572,14 +576,14 @@ https://tataplay.code-crafters.app/manifest/179.mpd
 https://tataplay.code-crafters.app/manifest/689.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/153
-#EXTINF:-1 tvg-id="ts153" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png" group-title="📰 News",Aaj Tak
-https://tataplay.code-crafters.app/manifest/153.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/259
 #EXTINF:-1 tvg-id="ts259" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png" group-title="📰 News",Zee News
 https://tataplay.code-crafters.app/manifest/259.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/153
+#EXTINF:-1 tvg-id="ts153" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png" group-title="📰 News",Aaj Tak
+https://tataplay.code-crafters.app/manifest/153.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/872
@@ -587,14 +591,14 @@ https://tataplay.code-crafters.app/manifest/259.mpd
 https://tataplay.code-crafters.app/manifest/872.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1056
-#EXTINF:-1 tvg-id="ts1056" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HAGHAR_Thumbnail-v1/HAGHAR_Thumbnail.png" group-title="📰 News",Tata Play Har Ghar Startup
-https://tataplay.code-crafters.app/manifest/1056.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/104
 #EXTINF:-1 tvg-id="ts104" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8568-j7lnde80-v1/imageContent-8568-j7lnde80-m1.png" group-title="📰 News",India TV
 https://tataplay.code-crafters.app/manifest/104.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1056
+#EXTINF:-1 tvg-id="ts1056" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HAGHAR_Thumbnail-v1/HAGHAR_Thumbnail.png" group-title="📰 News",Tata Play Har Ghar Startup
+https://tataplay.code-crafters.app/manifest/1056.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/209
@@ -616,6 +620,11 @@ https://tataplay.code-crafters.app/manifest/928.mpd
 #EXTINF:-1 tvg-id="ts106" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png" group-title="📰 News",News18 India
 https://tataplay.code-crafters.app/manifest/106.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/514
+#EXTINF:-1 tvg-id="ts514" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZEEBH_Thumbnail-v2/ZEEBH_Thumbnail.png" group-title="📰 News",Zee Bharat
+https://tataplay.code-crafters.app/manifest/514.mpd
+
 #EXTINF:-1 tvg-id="ts696" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG" group-title="🌟 Regional Hindi",R Bharat
 https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vg-sk-791089/index.mpd
 
@@ -630,19 +639,14 @@ https://delta14tatasky.akamaized.net/out/i/8025280.mpd
 https://tataplay.code-crafters.app/manifest/36.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/514
-#EXTINF:-1 tvg-id="ts514" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZEEBH_Thumbnail-v2/ZEEBH_Thumbnail.png" group-title="📰 News",Zee Bharat
-https://tataplay.code-crafters.app/manifest/514.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/706
+#EXTINF:-1 tvg-id="ts706" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png" group-title="🌟 Regional Hindi",TV9 Bharatvarsh
+https://tataplay.code-crafters.app/manifest/706.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/485
 #EXTINF:-1 tvg-id="ts485" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11859-j9l2n36w-v2/imageContent-11859-j9l2n36w-m2.png" group-title="📰 News",TOTAL TV
 https://tataplay.code-crafters.app/manifest/485.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/706
-#EXTINF:-1 tvg-id="ts706" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png" group-title="🌟 Regional Hindi",TV9 Bharatvarsh
-https://tataplay.code-crafters.app/manifest/706.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/932
@@ -655,14 +659,14 @@ https://tataplay.code-crafters.app/manifest/932.mpd
 https://tataplay.code-crafters.app/manifest/966.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/831
-#EXTINF:-1 tvg-id="ts831" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55547-kdzeosow-v3/imageContent-55547-kdzeosow-m6.png" group-title="📰 News",News India 24x7
-https://tataplay.code-crafters.app/manifest/831.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1010
 #EXTINF:-1 tvg-id="ts1010" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BH24_Thumbnail-v3/BH24_Thumbnail.png" group-title="📰 News",Bharat 24
 https://tataplay.code-crafters.app/manifest/1010.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/831
+#EXTINF:-1 tvg-id="ts831" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55547-kdzeosow-v3/imageContent-55547-kdzeosow-m6.png" group-title="📰 News",News India 24x7
+https://tataplay.code-crafters.app/manifest/831.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1031
@@ -680,14 +684,14 @@ https://tataplay.code-crafters.app/manifest/475.mpd
 https://tataplay.code-crafters.app/manifest/1051.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1161
-#EXTINF:-1 tvg-id="ts1161" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DSNEW_Thumbnail-v5/DSNEW_Thumbnail.png" group-title="📰 News",Desh News
-https://tataplay.code-crafters.app/manifest/1161.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1084
 #EXTINF:-1 tvg-id="ts1084" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INDLive_Thumbnail-v1/INDLive_Thumbnail.png" group-title="📰 News",India Daily Live
 https://tataplay.code-crafters.app/manifest/1084.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1161
+#EXTINF:-1 tvg-id="ts1161" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DSNEW_Thumbnail-v5/DSNEW_Thumbnail.png" group-title="📰 News",Desh News
+https://tataplay.code-crafters.app/manifest/1161.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/286
@@ -720,6 +724,11 @@ https://tataplay.code-crafters.app/manifest/291.mpd
 https://tataplay.code-crafters.app/manifest/344.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/441
+#EXTINF:-1 tvg-id="ts441" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11719-j9ktg6ds-v2/imageContent-11719-j9ktg6ds-m2.png" group-title="📰 News",Samay
+https://tataplay.code-crafters.app/manifest/441.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/384
 #EXTINF:-1 tvg-id="ts384" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11527-j9jtx9hk-v2/imageContent-11527-j9jtx9hk-m2.png" group-title="📰 News",Khabarain Abhi Tak
 https://delta14tatasky.akamaized.net/out/i/8025681.mpd
@@ -730,19 +739,14 @@ https://delta14tatasky.akamaized.net/out/i/8025681.mpd
 https://tataplay.code-crafters.app/manifest/848.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/441
-#EXTINF:-1 tvg-id="ts441" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11719-j9ktg6ds-v2/imageContent-11719-j9ktg6ds-m2.png" group-title="📰 News",Samay
-https://tataplay.code-crafters.app/manifest/441.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/701
+#EXTINF:-1 tvg-id="ts701" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37210-jswmlty0-v2/imageContent-37210-jswmlty0-m2.PNG" group-title="🌟 Regional Hindi",Jantantra TV
+https://tataplay.code-crafters.app/manifest/701.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/988
 #EXTINF:-1 tvg-id="ts988" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70993-l3v760zc-v1/imageContent-70993-l3v760zc-m4.png" group-title="📰 News",Har Khabar
 https://tataplay.code-crafters.app/manifest/988.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/701
-#EXTINF:-1 tvg-id="ts701" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37210-jswmlty0-v2/imageContent-37210-jswmlty0-m2.PNG" group-title="🌟 Regional Hindi",Jantantra TV
-https://tataplay.code-crafters.app/manifest/701.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/784
@@ -755,14 +759,14 @@ https://tataplay.code-crafters.app/manifest/784.mpd
 https://tataplay.code-crafters.app/manifest/1274.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/260
-#EXTINF:-1 tvg-id="ts260" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11120-j95jyuao-v1/imageContent-11120-j95jyuao-m1.png" group-title="📰 News",Zee Business
-https://tataplay.code-crafters.app/manifest/260.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/278
 #EXTINF:-1 tvg-id="ts278" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11206-j9icarsw-v2/imageContent-11206-j9icarsw-m2.png" group-title="📰 News",Good News Today
 https://tataplay.code-crafters.app/manifest/278.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/260
+#EXTINF:-1 tvg-id="ts260" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11120-j95jyuao-v1/imageContent-11120-j95jyuao-m1.png" group-title="📰 News",Zee Business
+https://tataplay.code-crafters.app/manifest/260.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/204
@@ -790,15 +794,17 @@ https://tataplay.code-crafters.app/manifest/208.mpd
 https://tataplay.code-crafters.app/manifest/547.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1
+#EXTINF:-1 tvg-id="ts1" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png" group-title="📰 News",INDIA TODAY
+https://tataplay.code-crafters.app/manifest/1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/90
 #EXTINF:-1 tvg-id="ts90" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-303-j5ji8zco-v3/imageContent-303-j5ji8zco-m3.png" group-title="📰 News",TIMES NOW
 https://tataplay.code-crafters.app/manifest/90.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1
-#EXTINF:-1 tvg-id="ts1" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png" group-title="📰 News",INDIA TODAY
-https://tataplay.code-crafters.app/manifest/1.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/206
 #EXTINF:-1 tvg-id="ts206" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-843-j5m9oyzc-v1/imageContent-843-j5m9oyzc-m1.png" group-title="📰 News",CNN News18
 https://tataplay.code-crafters.app/manifest/206.mpd
 
@@ -808,14 +814,14 @@ https://tataplay.code-crafters.app/manifest/206.mpd
 https://tataplay.code-crafters.app/manifest/189.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/255
-#EXTINF:-1 tvg-id="ts255" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png" group-title="📰 News",WION
-https://tataplay.code-crafters.app/manifest/255.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/591
 #EXTINF:-1 tvg-id="ts591" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12189-j9plqlf4-v1/imageContent-12189-j9plqlf4-m1.png" group-title="📰 News",MIRROR NOW
 https://tataplay.code-crafters.app/manifest/591.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/255
+#EXTINF:-1 tvg-id="ts255" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png" group-title="📰 News",WION
+https://tataplay.code-crafters.app/manifest/255.mpd
 
 #EXTINF:-1 tvg-id="ts72" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png" group-title="📰 News",REPUBLIC TV
 https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vg-sk-380287/index.mpd
@@ -839,6 +845,11 @@ https://tataplay.code-crafters.app/manifest/93.mpd
 https://delta47tatasky.akamaized.net/out/i/298431.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/88
+#EXTINF:-1 tvg-id="ts88" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png" group-title="📰 News",ET NOW
+https://tataplay.code-crafters.app/manifest/88.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/168
 #EXTINF:-1 tvg-id="ts168" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-731-j5l3muhs-v1/imageContent-731-j5l3muhs-m1.png" group-title="📰 News",CNBC-TV18
 https://tataplay.code-crafters.app/manifest/168.mpd
@@ -847,11 +858,6 @@ https://tataplay.code-crafters.app/manifest/168.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/243
 #EXTINF:-1 tvg-id="ts243" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-4154-j69pdmvk-v1/imageContent-4154-j69pdmvk-m1.png" group-title="📰 News",CNN
 https://tataplay.code-crafters.app/manifest/243.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/88
-#EXTINF:-1 tvg-id="ts88" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png" group-title="📰 News",ET NOW
-https://tataplay.code-crafters.app/manifest/88.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/188
@@ -864,6 +870,11 @@ https://tataplay.code-crafters.app/manifest/188.mpd
 https://tataplay.code-crafters.app/manifest/190.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/157
+#EXTINF:-1 tvg-id="ts157" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-548-j5kxtaig-v1/imageContent-548-j5kxtaig-m1.png" group-title="📰 News",Channel News Asia
+https://tataplay.code-crafters.app/manifest/157.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/131
 #EXTINF:-1 tvg-id="ts131" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png" group-title="📰 News",France 24
 https://tataplay.code-crafters.app/manifest/131.mpd
@@ -873,13 +884,6 @@ https://tataplay.code-crafters.app/manifest/131.mpd
 #EXTINF:-1 tvg-id="ts65" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-204-j5ftndtc-v1/imageContent-204-j5ftndtc-m1.png" group-title="📰 News",TV5 Monde Asie
 https://tataplay.code-crafters.app/manifest/65.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/157
-#EXTINF:-1 tvg-id="ts157" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-548-j5kxtaig-v1/imageContent-548-j5kxtaig-m1.png" group-title="📰 News",Channel News Asia
-https://tataplay.code-crafters.app/manifest/157.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/105
 #EXTINF:-1 tvg-id="ts105" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-324-j5jl5hp4-v2/imageContent-324-j5jl5hp4-m2.png" group-title="📰 News",Australia TV
 https://tataplay.code-crafters.app/manifest/105.mpd
 
@@ -919,9 +923,9 @@ https://tataplay.code-crafters.app/manifest/71.mpd
 https://tataplay.code-crafters.app/manifest/433.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/627
-#EXTINF:-1 tvg-id="ts627" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13097-jbdzn9og-v2/imageContent-13097-jbdzn9og-m2.png" group-title="🧒 Kids",Tata Play Fun Learn Junior
-https://tataplay.code-crafters.app/manifest/627.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/138
+#EXTINF:-1 tvg-id="ts138" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="🧒 Kids",Nick
+https://tataplay.code-crafters.app/manifest/138.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/626
@@ -929,19 +933,19 @@ https://tataplay.code-crafters.app/manifest/627.mpd
 https://tataplay.code-crafters.app/manifest/626.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/681
-#EXTINF:-1 tvg-id="ts681" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="🧒 Kids",Cartoon Network HD+
-https://tataplay.code-crafters.app/manifest/681.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/138
-#EXTINF:-1 tvg-id="ts138" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="🧒 Kids",Nick
-https://tataplay.code-crafters.app/manifest/138.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/627
+#EXTINF:-1 tvg-id="ts627" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13097-jbdzn9og-v2/imageContent-13097-jbdzn9og-m2.png" group-title="🧒 Kids",Tata Play Fun Learn Junior
+https://tataplay.code-crafters.app/manifest/627.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/238
 #EXTINF:-1 tvg-id="ts238" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="🧒 Kids",Cartoon Network
 https://tataplay.code-crafters.app/manifest/238.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/681
+#EXTINF:-1 tvg-id="ts681" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="🧒 Kids",Cartoon Network HD+
+https://tataplay.code-crafters.app/manifest/681.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/239
@@ -959,14 +963,14 @@ https://tataplay.code-crafters.app/manifest/119.mpd
 https://tataplay.code-crafters.app/manifest/127.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/994
-#EXTINF:-1 tvg-id="ts994" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png" group-title="🧒 Kids",Tata Play Toons+
-https://tataplay.code-crafters.app/manifest/994.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/45
 #EXTINF:-1 tvg-id="ts45" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="🧒 Kids",SONY YAY!
 https://tataplay.code-crafters.app/manifest/45.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/994
+#EXTINF:-1 tvg-id="ts994" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png" group-title="🧒 Kids",Tata Play Toons+
+https://tataplay.code-crafters.app/manifest/994.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/867
@@ -1049,14 +1053,19 @@ https://tataplay.code-crafters.app/manifest/130.mpd
 https://tataplay.code-crafters.app/manifest/113.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/172
+#EXTINF:-1 tvg-id="ts172" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="🧠 Knowledge",History TV18
+https://tataplay.code-crafters.app/manifest/172.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/616
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="🧠 Knowledge",History TV18 HD
 https://tataplay.code-crafters.app/manifest/616.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/172
-#EXTINF:-1 tvg-id="ts172" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="🧠 Knowledge",History TV18
-https://tataplay.code-crafters.app/manifest/172.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/158
+#EXTINF:-1 tvg-id="ts158" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png" group-title="🧠 Knowledge",SONY BBC Earth
+https://tataplay.code-crafters.app/manifest/158.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/460
@@ -1067,22 +1076,19 @@ https://tataplay.code-crafters.app/manifest/460.mpd
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/158
-#EXTINF:-1 tvg-id="ts158" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png" group-title="🧠 Knowledge",SONY BBC Earth
-https://tataplay.code-crafters.app/manifest/158.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/126
 #EXTINF:-1 tvg-id="ts126" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EPI_Thumbnail-v2/EPI_Thumbnail.png" group-title="🧠 Knowledge",EPIC
 https://tataplay.code-crafters.app/manifest/126.mpd
-
-#EXTINF:-1 tvg-id="ts646" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23855-jg9jt83c-v2/imageContent-23855-jg9jt83c-m8.png" group-title="🧠 Knowledge",DD Gyan Darshan
-https://tataplay.code-crafters.app/manifest/646.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/367
 #EXTINF:-1 tvg-id="ts367" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png" group-title="💼 Lifestyle",Star Life HD
 https://tataplay.code-crafters.app/manifest/367.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/646
+#EXTINF:-1 tvg-id="ts646" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23855-jg9jt83c-v2/imageContent-23855-jg9jt83c-m8.png" group-title="🧠 Knowledge",DD Gyan Darshan
+https://tataplay.code-crafters.app/manifest/646.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/480
@@ -1170,19 +1176,24 @@ https://tataplay.code-crafters.app/manifest/236.mpd
 https://tataplay.code-crafters.app/manifest/9.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/17
-#EXTINF:-1 tvg-id="ts17" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png" group-title="🎵 Music",Mastiii
-https://tataplay.code-crafters.app/manifest/17.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/517
 #EXTINF:-1 tvg-id="ts517" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="🎵 Music",Zing
 https://tataplay.code-crafters.app/manifest/517.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/17
+#EXTINF:-1 tvg-id="ts17" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png" group-title="🎵 Music",Mastiii
+https://tataplay.code-crafters.app/manifest/17.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/39
 #EXTINF:-1 tvg-id="ts39" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png" group-title="🎵 Music",9X Jalwa
 https://tataplay.code-crafters.app/manifest/39.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/539
+#EXTINF:-1 tvg-id="ts539" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="🎵 Music",VH1 HD
+https://tataplay.code-crafters.app/manifest/539.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/733
@@ -1193,11 +1204,6 @@ https://tataplay.code-crafters.app/manifest/733.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/38
 #EXTINF:-1 tvg-id="ts38" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png" group-title="🙏 Spiritual",Aastha
 https://tataplay.code-crafters.app/manifest/38.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/539
-#EXTINF:-1 tvg-id="ts539" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="🎵 Music",VH1 HD
-https://tataplay.code-crafters.app/manifest/539.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/43
@@ -1240,14 +1246,14 @@ https://tataplay.code-crafters.app/manifest/373.mpd
 https://tataplay.code-crafters.app/manifest/288.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/594
-#EXTINF:-1 tvg-id="ts594" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12196-j9q3ez54-v1/imageContent-12196-j9q3ez54-m1.png" group-title="🙏 Spiritual",Ishwar TV
-https://tataplay.code-crafters.app/manifest/594.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/456
 #EXTINF:-1 tvg-id="ts456" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11767-j9kwretk-v1/imageContent-11767-j9kwretk-m1.png" group-title="🙏 Spiritual",Satsang TV
 https://delta14tatasky.akamaized.net/out/i/8025897.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/594
+#EXTINF:-1 tvg-id="ts594" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12196-j9q3ez54-v1/imageContent-12196-j9q3ez54-m1.png" group-title="🙏 Spiritual",Ishwar TV
+https://tataplay.code-crafters.app/manifest/594.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/458
@@ -1265,6 +1271,11 @@ https://tataplay.code-crafters.app/manifest/283.mpd
 https://tataplay.code-crafters.app/manifest/500.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/728
+#EXTINF:-1 tvg-id="ts728" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43103-jxzlrb0o-v2/imageContent-43103-jxzlrb0o-m2.png" group-title="🌟 Regional Hindi",Subharti TV
+https://tataplay.code-crafters.app/manifest/728.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/775
 #EXTINF:-1 tvg-id="ts775" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11408-j9jqmlvs-v6/imageContent-11408-j9jqmlvs-m4.png" group-title="🙏 Spiritual",DIVYA
 https://tataplay.code-crafters.app/manifest/775.mpd
@@ -1275,9 +1286,9 @@ https://tataplay.code-crafters.app/manifest/775.mpd
 https://tataplay.code-crafters.app/manifest/935.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/728
-#EXTINF:-1 tvg-id="ts728" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43103-jxzlrb0o-v2/imageContent-43103-jxzlrb0o-m2.png" group-title="🌟 Regional Hindi",Subharti TV
-https://tataplay.code-crafters.app/manifest/728.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/911
+#EXTINF:-1 tvg-id="ts911" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62610-koxujv2g-v2/imageContent-62610-koxujv2g-m3.png" group-title="🙏 Spiritual",Santwani
+https://tataplay.code-crafters.app/manifest/911.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/969
@@ -1285,15 +1296,12 @@ https://tataplay.code-crafters.app/manifest/728.mpd
 https://tataplay.code-crafters.app/manifest/969.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/911
-#EXTINF:-1 tvg-id="ts911" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62610-koxujv2g-v2/imageContent-62610-koxujv2g-m3.png" group-title="🙏 Spiritual",Santwani
-https://tataplay.code-crafters.app/manifest/911.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1119
 #EXTINF:-1 tvg-id="ts1119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SA24x7_Thumbnail-v2/SA24x7_Thumbnail.png" group-title="📰 News",Sanskriti 24x7
 https://tataplay.code-crafters.app/manifest/1119.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/802
 #EXTINF:-1 tvg-id="ts802" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STU1PLS_Thumbnail-v2/STU1PLS_Thumbnail.png" group-title="🎭 Entertainment",Studio One +
 https://delta13tatasky.akamaized.net/out/i/6367824.mpd
 
@@ -1325,8 +1333,6 @@ https://tataplay.code-crafters.app/manifest/830.mpd
 #EXTINF:-1 tvg-id="ts181" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-768-j5m31cfs-v1/imageContent-768-j5m31cfs-m1.png" group-title="🌟 Regional Hindi",Bhojpuri Cinema
 https://tataplay.code-crafters.app/manifest/181.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/431
 #EXTINF:-1 tvg-id="ts431" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/OSMOV_Thumbnail-v3/OSMOV_Thumbnail.png" group-title="🌟 Regional Hindi",Oscar Movies Bhojpuri.
 https://delta14tatasky.akamaized.net/out/i/8025247.mpd
 
@@ -1335,6 +1341,8 @@ https://delta14tatasky.akamaized.net/out/i/8025247.mpd
 #EXTINF:-1 tvg-id="ts729" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43109-jxzlyrjc-v1/imageContent-43109-jxzlyrjc-m1.png" group-title="🌟 Regional Hindi",B4U Bhojpuri
 https://tataplay.code-crafters.app/manifest/729.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/899
 #EXTINF:-1 tvg-id="ts899" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62150-knicubns-v2/imageContent-62150-knicubns-m2.png" group-title="🎬 Movies",Pasand
 https://tataplay.code-crafters.app/manifest/899.mpd
 
@@ -1344,14 +1352,14 @@ https://tataplay.code-crafters.app/manifest/899.mpd
 https://tataplay.code-crafters.app/manifest/1165.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/838
-#EXTINF:-1 tvg-id="ts838" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png" group-title="🌟 Regional Hindi",Kashish News
-https://tataplay.code-crafters.app/manifest/838.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/79
 #EXTINF:-1 tvg-id="ts79" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23223-jeyhnzfs-v1/imageContent-23223-jeyhnzfs-m1.png" group-title="🌟 Regional Hindi",News18 Uttar Pradesh Uttarakhand
 https://tataplay.code-crafters.app/manifest/79.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/838
+#EXTINF:-1 tvg-id="ts838" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png" group-title="🌟 Regional Hindi",Kashish News
+https://tataplay.code-crafters.app/manifest/838.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/637
@@ -1446,25 +1454,23 @@ https://tataplay.code-crafters.app/manifest/222.mpd
 #EXTINF:-1 tvg-id="ts643" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31191-jldnwhhs-v1/imageContent-31191-jldnwhhs-m1.png" group-title="📰 News",News State MP CG
 https://tataplay.code-crafters.app/manifest/643.mpd
 
+#EXTINF:-1 tvg-id="ts577" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12143-j9p7vx9c-v1/imageContent-12143-j9p7vx9c-m1.png" group-title="📰 News",Swaraj Express SMBC
+https://tataplay.code-crafters.app/manifest/577.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/829
 #EXTINF:-1 tvg-id="ts829" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55112-kd88u9so-v1/imageContent-55112-kd88u9so-m2.png" group-title="🌟 Regional Hindi",Sadhna News MP CG
 https://tataplay.code-crafters.app/manifest/829.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/577
-#EXTINF:-1 tvg-id="ts577" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12143-j9p7vx9c-v1/imageContent-12143-j9p7vx9c-m1.png" group-title="📰 News",Swaraj Express SMBC
-https://tataplay.code-crafters.app/manifest/577.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/902
+#EXTINF:-1 tvg-id="ts902" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62181-knrp5974-v1/imageContent-62181-knrp5974-m1.png" group-title="📰 News",News 24 Madhyapradesh Chattisgarh
+https://tataplay.code-crafters.app/manifest/902.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/937
 #EXTINF:-1 tvg-id="ts937" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65108-ksr7d028-v1/imageContent-65108-ksr7d028-m2.png" group-title="🙏 Spiritual",Anaadi TV
 https://tataplay.code-crafters.app/manifest/937.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/902
-#EXTINF:-1 tvg-id="ts902" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62181-knrp5974-v1/imageContent-62181-knrp5974-m1.png" group-title="📰 News",News 24 Madhyapradesh Chattisgarh
-https://tataplay.code-crafters.app/manifest/902.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/993
@@ -1492,14 +1498,14 @@ https://tataplay.code-crafters.app/manifest/1159.mpd
 https://tataplay.code-crafters.app/manifest/1315.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/330
-#EXTINF:-1 tvg-id="ts330" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11351-j9jpmdvc-v1/imageContent-11351-j9jpmdvc-m1.png" group-title="🌟 Regional Hindi",DD Madhya Pradesh
-https://tataplay.code-crafters.app/manifest/330.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/205
 #EXTINF:-1 tvg-id="ts205" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23226-jeyiac80-v1/imageContent-23226-jeyiac80-m1.png" group-title="🌟 Regional Hindi",News18 Rajasthan
 https://tataplay.code-crafters.app/manifest/205.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/330
+#EXTINF:-1 tvg-id="ts330" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11351-j9jpmdvc-v1/imageContent-11351-j9jpmdvc-m1.png" group-title="🌟 Regional Hindi",DD Madhya Pradesh
+https://tataplay.code-crafters.app/manifest/330.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/583
@@ -1582,14 +1588,14 @@ https://tataplay.code-crafters.app/manifest/501.mpd
 https://tataplay.code-crafters.app/manifest/251.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/469
-#EXTINF:-1 tvg-id="ts469" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png" group-title="🌟 Regional Marathi",Star Pravah HD
-https://tataplay.code-crafters.app/manifest/469.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/622
 #EXTINF:-1 tvg-id="ts622" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12925-jb5xf2nc-v2/imageContent-12925-jb5xf2nc-m2.png" group-title="🌟 Regional Marathi",Tata Play Marathi Cinema
 https://tataplay.code-crafters.app/manifest/622.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/469
+#EXTINF:-1 tvg-id="ts469" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png" group-title="🌟 Regional Marathi",Star Pravah HD
+https://tataplay.code-crafters.app/manifest/469.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/248
@@ -1597,14 +1603,14 @@ https://tataplay.code-crafters.app/manifest/622.mpd
 https://tataplay.code-crafters.app/manifest/248.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/999
-#EXTINF:-1 tvg-id="ts999" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSMAR_Thumbnail-v10/TONSMAR_Thumbnail.png" group-title="📺 Cartoons",Tata Play Toons+
-https://delta14tatasky.akamaized.net/out/i/7253194.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/658
 #EXTINF:-1 tvg-id="ts658" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png" group-title="🌟 Regional Marathi",Sony Marathi
 https://tataplay.code-crafters.app/manifest/658.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/999
+#EXTINF:-1 tvg-id="ts999" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSMAR_Thumbnail-v10/TONSMAR_Thumbnail.png" group-title="📺 Cartoons",Tata Play Toons+
+https://delta14tatasky.akamaized.net/out/i/7253194.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/515
@@ -1612,19 +1618,12 @@ https://tataplay.code-crafters.app/manifest/658.mpd
 https://tataplay.code-crafters.app/manifest/515.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/192
-#EXTINF:-1 tvg-id="ts192" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-801-j5m7jg34-v2/imageContent-801-j5m7jg34-m2.png" group-title="🌟 Regional Marathi",Fakt Marathi
-https://tataplay.code-crafters.app/manifest/192.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/249
 #EXTINF:-1 tvg-id="ts249" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8842-j7pp0me8-v2/imageContent-8842-j7pp0me8-m2.png" group-title="🌟 Regional Marathi",Zee Talkies
 https://tataplay.code-crafters.app/manifest/249.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/800
-#EXTINF:-1 tvg-id="ts800" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49025-k5lxf84o-v2/imageContent-49025-k5lxf84o-m2.png" group-title="🌟 Regional Marathi",Shemaroo MarathiBana
-https://tataplay.code-crafters.app/manifest/800.mpd
+#EXTINF:-1 tvg-id="ts192" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-801-j5m7jg34-v2/imageContent-801-j5m7jg34-m2.png" group-title="🌟 Regional Marathi",Fakt Marathi
+https://tataplay.code-crafters.app/manifest/192.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/155
@@ -1632,14 +1631,19 @@ https://tataplay.code-crafters.app/manifest/800.mpd
 https://tataplay.code-crafters.app/manifest/155.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/261
-#EXTINF:-1 tvg-id="ts261" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11156-j96xbrfk-v1/imageContent-11156-j96xbrfk-m1.png" group-title="🌟 Regional Marathi",Zee 24 Taas
-https://tataplay.code-crafters.app/manifest/261.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/800
+#EXTINF:-1 tvg-id="ts800" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49025-k5lxf84o-v2/imageContent-49025-k5lxf84o-m2.png" group-title="🌟 Regional Marathi",Shemaroo MarathiBana
+https://tataplay.code-crafters.app/manifest/800.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/140
 #EXTINF:-1 tvg-id="ts140" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12140-j9p7vga8-v1/imageContent-12140-j9p7vga8-m1.png" group-title="🌟 Regional Marathi",News18 Lokmat
 https://tataplay.code-crafters.app/manifest/140.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/261
+#EXTINF:-1 tvg-id="ts261" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11156-j96xbrfk-v1/imageContent-11156-j96xbrfk-m1.png" group-title="🌟 Regional Marathi",Zee 24 Taas
+https://tataplay.code-crafters.app/manifest/261.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/546
@@ -1657,17 +1661,14 @@ https://tataplay.code-crafters.app/manifest/233.mpd
 https://tataplay.code-crafters.app/manifest/97.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/826
-#EXTINF:-1 tvg-id="ts826" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/LKSHIMAR_Thumbnail-v4/LKSHIMAR_Thumbnail.png" group-title="🌟 Regional Marathi",Lokshahi Marathi
-https://tataplay.code-crafters.app/manifest/826.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1102
+#EXTINF:-1 tvg-id="ts1102" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PDNEWS_Thumbnail-v2/PDNEWS_Thumbnail.png" group-title="📰 News",Pudhari News
+https://tataplay.code-crafters.app/manifest/1102.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/336
 #EXTINF:-1 tvg-id="ts336" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11378-j9jq0f9s-v1/imageContent-11378-j9jq0f9s-m1.png" group-title="🌟 Regional Marathi",DD Sahyadri
 https://tataplay.code-crafters.app/manifest/336.mpd
-
-#EXTINF:-1 tvg-id="ts1102" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PDNEWS_Thumbnail-v2/PDNEWS_Thumbnail.png" group-title="📰 News",Pudhari News
-https://tataplay.code-crafters.app/manifest/1102.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/217
@@ -1675,9 +1676,9 @@ https://tataplay.code-crafters.app/manifest/1102.mpd
 https://tataplay.code-crafters.app/manifest/217.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/305
-#EXTINF:-1 tvg-id="ts305" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="🌟 Regional Bengali",Colors Bangla HD
-https://tataplay.code-crafters.app/manifest/305.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/826
+#EXTINF:-1 tvg-id="ts826" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/LKSHIMAR_Thumbnail-v4/LKSHIMAR_Thumbnail.png" group-title="🌟 Regional Marathi",Lokshahi Marathi
+https://tataplay.code-crafters.app/manifest/826.mpd
 
 #EXTINF:-1 tvg-id="ts26" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="🌟 Regional Bengali",Colors Bangla
 https://tataplay.code-crafters.app/manifest/26.mpd
@@ -1688,19 +1689,24 @@ https://tataplay.code-crafters.app/manifest/26.mpd
 https://tataplay.code-crafters.app/manifest/522.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/305
+#EXTINF:-1 tvg-id="ts305" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="🌟 Regional Bengali",Colors Bangla HD
+https://tataplay.code-crafters.app/manifest/305.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/468
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="🌟 Regional Bengali",Star Jalsha HD
 https://tataplay.code-crafters.app/manifest/468.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/34
-#EXTINF:-1 tvg-id="ts34" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="🌟 Regional Bengali",SONY AATH
-https://tataplay.code-crafters.app/manifest/34.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/995
 #EXTINF:-1 tvg-id="ts995" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png" group-title="📺 Cartoons",Tata Play Toons+
 https://tataplay.code-crafters.app/manifest/995.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/34
+#EXTINF:-1 tvg-id="ts34" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="🌟 Regional Bengali",SONY AATH
+https://tataplay.code-crafters.app/manifest/34.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/129
@@ -1733,14 +1739,14 @@ https://tataplay.code-crafters.app/manifest/254.mpd
 https://tataplay.code-crafters.app/manifest/896.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1132
-#EXTINF:-1 tvg-id="ts1132" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RONGEEN_Thumbnail-v1/RONGEEN_Thumbnail.png" group-title="🧒 Kids",Rongeen TV
-https://tataplay.code-crafters.app/manifest/1132.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/379
 #EXTINF:-1 tvg-id="ts379" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png" group-title="🌟 Regional Bengali",Khushboo Bangla
 https://tataplay.code-crafters.app/manifest/379.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1132
+#EXTINF:-1 tvg-id="ts1132" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RONGEEN_Thumbnail-v1/RONGEEN_Thumbnail.png" group-title="🧒 Kids",Rongeen TV
+https://tataplay.code-crafters.app/manifest/1132.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/102
@@ -1791,14 +1797,14 @@ https://tataplay.code-crafters.app/manifest/648.mpd
 https://tataplay.code-crafters.app/manifest/1103.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/314
-#EXTINF:-1 tvg-id="ts314" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11314-j9j8kcxk-v1/imageContent-11314-j9j8kcxk-m1.png" group-title="🌟 Regional Bengali",DD Bangla
-https://tataplay.code-crafters.app/manifest/314.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1133
 #EXTINF:-1 tvg-id="ts1133" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RPLUS_Thumbnail-v1/RPLUS_Thumbnail.png" group-title="📰 News",R Plus
 https://tataplay.code-crafters.app/manifest/1133.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/314
+#EXTINF:-1 tvg-id="ts314" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11314-j9j8kcxk-v1/imageContent-11314-j9j8kcxk-m1.png" group-title="🌟 Regional Bengali",DD Bangla
+https://tataplay.code-crafters.app/manifest/314.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/215
@@ -2219,6 +2225,8 @@ https://tataplay.code-crafters.app/manifest/198.mpd
 #EXTINF:-1 tvg-id="ts509" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11942-j9lthi34-v1/imageContent-11942-j9lthi34-m1.png" group-title="🌟 Regional Tamil",Polimer News
 https://tataplay.code-crafters.app/manifest/509.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/58
 #EXTINF:-1 tvg-id="ts58" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-192-j5fsr3s0-v1/imageContent-192-j5fsr3s0-m1.png" group-title="🌟 Regional Tamil",News18 Tamil Nadu
 https://tataplay.code-crafters.app/manifest/58.mpd
 
@@ -2228,9 +2236,9 @@ https://tataplay.code-crafters.app/manifest/58.mpd
 https://tataplay.code-crafters.app/manifest/44.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/525
-#EXTINF:-1 tvg-id="ts525" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title="🌟 Regional Tamil",Raj News Tamil
-https://tataplay.code-crafters.app/manifest/525.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/391
+#EXTINF:-1 tvg-id="ts391" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAMUR_Thumbnail-v2/MAMUR_Thumbnail.png" group-title="🌟 Regional Tamil",MalaiMurasu Seithigal
+https://tataplay.code-crafters.app/manifest/391.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/455
@@ -2238,14 +2246,9 @@ https://tataplay.code-crafters.app/manifest/525.mpd
 https://tataplay.code-crafters.app/manifest/455.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/391
-#EXTINF:-1 tvg-id="ts391" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAMUR_Thumbnail-v2/MAMUR_Thumbnail.png" group-title="🌟 Regional Tamil",MalaiMurasu Seithigal
-https://tataplay.code-crafters.app/manifest/391.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/702
-#EXTINF:-1 tvg-id="ts702" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG" group-title="🌟 Regional Tamil",News J
-https://tataplay.code-crafters.app/manifest/702.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/525
+#EXTINF:-1 tvg-id="ts525" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title="🌟 Regional Tamil",Raj News Tamil
+https://tataplay.code-crafters.app/manifest/525.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/968
@@ -2253,14 +2256,19 @@ https://tataplay.code-crafters.app/manifest/702.mpd
 https://tataplay.code-crafters.app/manifest/968.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/702
+#EXTINF:-1 tvg-id="ts702" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG" group-title="🌟 Regional Tamil",News J
+https://tataplay.code-crafters.app/manifest/702.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/199
 #EXTINF:-1 tvg-id="ts199" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" group-title="🌟 Regional Tamil",Jaya Max
 https://tataplay.code-crafters.app/manifest/199.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/425
-#EXTINF:-1 tvg-id="ts425" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title="🌟 Regional Tamil",Raj Musix
-https://tataplay.code-crafters.app/manifest/425.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/411
+#EXTINF:-1 tvg-id="ts411" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png" group-title="🌟 Regional Tamil",Murasu TV
+https://tataplay.code-crafters.app/manifest/411.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/647
@@ -2268,9 +2276,9 @@ https://tataplay.code-crafters.app/manifest/425.mpd
 https://tataplay.code-crafters.app/manifest/647.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/411
-#EXTINF:-1 tvg-id="ts411" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png" group-title="🌟 Regional Tamil",Murasu TV
-https://tataplay.code-crafters.app/manifest/411.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/425
+#EXTINF:-1 tvg-id="ts425" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title="🌟 Regional Tamil",Raj Musix
+https://tataplay.code-crafters.app/manifest/425.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/400
@@ -2433,14 +2441,14 @@ https://tataplay.code-crafters.app/manifest/342.mpd
 https://tataplay.code-crafters.app/manifest/824.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1077
-#EXTINF:-1 tvg-id="ts1077" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISNEWS_Thumbnail-v2/VISNEWS_Thumbnail.png" group-title="📰 News",Vistara News
-https://tataplay.code-crafters.app/manifest/1077.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/913
 #EXTINF:-1 tvg-id="ts913" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NWS1ST_Thumbnail-v3/NWS1ST_Thumbnail.png" group-title="🌟 Regional Kannada",News 1st Kannada
 https://tataplay.code-crafters.app/manifest/913.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1077
+#EXTINF:-1 tvg-id="ts1077" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISNEWS_Thumbnail-v2/VISNEWS_Thumbnail.png" group-title="📰 News",Vistara News
+https://tataplay.code-crafters.app/manifest/1077.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1116
@@ -2536,14 +2544,12 @@ https://tataplay.code-crafters.app/manifest/497.mpd
 https://tataplay.code-crafters.app/manifest/507.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/974
-#EXTINF:-1 tvg-id="ts974" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/1STGUJ_Thumbnail-v2/1STGUJ_Thumbnail.png" group-title="🌟 Regional Gujarati",1st Gujarat
-https://tataplay.code-crafters.app/manifest/974.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/654
 #EXTINF:-1 tvg-id="ts654" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-26589-jj9w5h54-v1/imageContent-26589-jj9w5h54-m2.png" group-title="🌟 Regional Gujarati",India News Gujarat
 https://tataplay.code-crafters.app/manifest/654.mpd
+
+#EXTINF:-1 tvg-id="ts974" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/1STGUJ_Thumbnail-v2/1STGUJ_Thumbnail.png" group-title="🌟 Regional Gujarati",1st Gujarat
+https://tataplay.code-crafters.app/manifest/974.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1087
@@ -2572,11 +2578,6 @@ https://tataplay.code-crafters.app/manifest/115.mpd
 https://tataplay.code-crafters.app/manifest/597.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/978
-#EXTINF:-1 tvg-id="ts978" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69926-l1ooghuw-v3/imageContent-69926-l1ooghuw-m3.png" group-title="🌟 Regional Odia",Sidharth TV
-https://tataplay.code-crafters.app/manifest/978.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/421
 #EXTINF:-1 tvg-id="ts421" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11667-j9kdkb6w-v1/imageContent-11667-j9kdkb6w-m1.png" group-title="🌟 Regional Tamil",Peppers TV
 https://tataplay.code-crafters.app/manifest/421.mpd
@@ -2585,6 +2586,16 @@ https://tataplay.code-crafters.app/manifest/421.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1170
 #EXTINF:-1 tvg-id="ts1170" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SIDGL_Thumbnail-v2/SIDGL_Thumbnail.png" group-title="🎭 Entertainment",Sidharth GOLD
 https://tataplay.code-crafters.app/manifest/1170.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/978
+#EXTINF:-1 tvg-id="ts978" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69926-l1ooghuw-v3/imageContent-69926-l1ooghuw-m3.png" group-title="🌟 Regional Odia",Sidharth TV
+https://tataplay.code-crafters.app/manifest/978.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/41
+#EXTINF:-1 tvg-id="ts41" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13243-jbirprzs-v1/imageContent-13243-jbirprzs-m1.png" group-title="🌟 Regional Odia",News18 Odia
+https://tataplay.code-crafters.app/manifest/41.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/376
@@ -2597,11 +2608,6 @@ https://tataplay.code-crafters.app/manifest/376.mpd
 https://tataplay.code-crafters.app/manifest/375.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/41
-#EXTINF:-1 tvg-id="ts41" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13243-jbirprzs-v1/imageContent-13243-jbirprzs-m1.png" group-title="🌟 Regional Odia",News18 Odia
-https://tataplay.code-crafters.app/manifest/41.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/448
 #EXTINF:-1 tvg-id="ts448" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11733-j9kw4100-v4/imageContent-11733-j9kw4100-m4.png" group-title="🌟 Regional Odia",News7
 https://tataplay.code-crafters.app/manifest/448.mpd
@@ -2610,11 +2616,6 @@ https://tataplay.code-crafters.app/manifest/448.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/805
 #EXTINF:-1 tvg-id="ts805" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49597-k6k8ts8g-v2/imageContent-49597-k6k8ts8g-m2.png" group-title="🌟 Regional Odia",Nandighosha TV
 https://tataplay.code-crafters.app/manifest/805.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/230
-#EXTINF:-1 tvg-id="ts230" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png" group-title="🌟 Regional Malayalam",Surya TV
-https://tataplay.code-crafters.app/manifest/230.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/333
@@ -2632,27 +2633,27 @@ https://tataplay.code-crafters.app/manifest/907.mpd
 https://tataplay.code-crafters.app/manifest/1169.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/294
-#EXTINF:-1 tvg-id="ts294" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png" group-title="🌟 Regional Malayalam",Asianet Plus
-https://tataplay.code-crafters.app/manifest/294.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/230
+#EXTINF:-1 tvg-id="ts230" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png" group-title="🌟 Regional Malayalam",Surya TV
+https://tataplay.code-crafters.app/manifest/230.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/292
 #EXTINF:-1 tvg-id="ts292" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="🌟 Regional Malayalam",Asianet HD
 https://tataplay.code-crafters.app/manifest/292.mpd
 
-#EXTINF:-1 tvg-id="ts953" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66564-kup0jo0w-v1/imageContent-66564-kup0jo0w-m3.png" group-title="🌟 Regional Malayalam",Asianet Plus
-https://delta43tatasky.akamaized.net/out/i/2034251.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/294
+#EXTINF:-1 tvg-id="ts294" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png" group-title="🌟 Regional Malayalam",Asianet Plus
+https://tataplay.code-crafters.app/manifest/294.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/694
 #EXTINF:-1 tvg-id="ts694" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png" group-title="🌟 Regional Malayalam",Zee Keralam HD
 https://tataplay.code-crafters.app/manifest/694.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/684
-#EXTINF:-1 tvg-id="ts684" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9003-j7rlh2aw-v2/imageContent-9003-j7rlh2aw-m2.png" group-title="🌟 Regional Malayalam",Zee Keralam
-https://tataplay.code-crafters.app/manifest/684.mpd
+#EXTINF:-1 tvg-id="ts953" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66564-kup0jo0w-v1/imageContent-66564-kup0jo0w-m3.png" group-title="🌟 Regional Malayalam",Asianet Plus
+https://delta43tatasky.akamaized.net/out/i/2034251.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/10
@@ -2660,9 +2661,9 @@ https://tataplay.code-crafters.app/manifest/684.mpd
 https://tataplay.code-crafters.app/manifest/10.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/395
-#EXTINF:-1 tvg-id="ts395" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png" group-title="🌟 Regional Malayalam",Mazhavil Manorama HD
-https://tataplay.code-crafters.app/manifest/395.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/684
+#EXTINF:-1 tvg-id="ts684" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9003-j7rlh2aw-v2/imageContent-9003-j7rlh2aw-m2.png" group-title="🌟 Regional Malayalam",Zee Keralam
+https://tataplay.code-crafters.app/manifest/684.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/31
@@ -2670,14 +2671,14 @@ https://tataplay.code-crafters.app/manifest/395.mpd
 https://tataplay.code-crafters.app/manifest/31.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/395
+#EXTINF:-1 tvg-id="ts395" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png" group-title="🌟 Regional Malayalam",Mazhavil Manorama HD
+https://tataplay.code-crafters.app/manifest/395.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/25
 #EXTINF:-1 tvg-id="ts25" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33-j5fc5fko-v1/imageContent-33-j5fc5fko-m1.png" group-title="🌟 Regional Malayalam",Kairali TV
 https://tataplay.code-crafters.app/manifest/25.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/553
-#EXTINF:-1 tvg-id="ts553" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png" group-title="🌟 Regional Malayalam",We TV
-https://tataplay.code-crafters.app/manifest/553.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/178
@@ -2685,14 +2686,27 @@ https://tataplay.code-crafters.app/manifest/553.mpd
 https://tataplay.code-crafters.app/manifest/178.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/293
-#EXTINF:-1 tvg-id="ts293" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" group-title="🌟 Regional Malayalam",Asianet Movies
-https://tataplay.code-crafters.app/manifest/293.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/553
+#EXTINF:-1 tvg-id="ts553" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png" group-title="🌟 Regional Malayalam",We TV
+https://tataplay.code-crafters.app/manifest/553.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/229
 #EXTINF:-1 tvg-id="ts229" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png" group-title="🌟 Regional Malayalam",Surya Movies
 https://tataplay.code-crafters.app/manifest/229.mpd
+
+#EXTINF:-1 tvg-id="ts933" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64891-ks8v01o8-v1/imageContent-64891-ks8v01o8-m2.png" group-title="🌟 Regional Malayalam",Asianet Movies
+https://delta31tatasky.akamaized.net/out/i/29273.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/436
+#EXTINF:-1 tvg-id="ts436" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11709-j9kt6bg0-v1/imageContent-11709-j9kt6bg0-m1.png" group-title="🧠 Knowledge",Safari TV
+https://tataplay.code-crafters.app/manifest/436.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/293
+#EXTINF:-1 tvg-id="ts293" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" group-title="🌟 Regional Malayalam",Asianet Movies
+https://tataplay.code-crafters.app/manifest/293.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/532
@@ -2700,12 +2714,9 @@ https://tataplay.code-crafters.app/manifest/229.mpd
 https://tataplay.code-crafters.app/manifest/532.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/436
-#EXTINF:-1 tvg-id="ts436" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11709-j9kt6bg0-v1/imageContent-11709-j9kt6bg0-m1.png" group-title="🧠 Knowledge",Safari TV
-https://tataplay.code-crafters.app/manifest/436.mpd
-
-#EXTINF:-1 tvg-id="ts933" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64891-ks8v01o8-v1/imageContent-64891-ks8v01o8-m2.png" group-title="🌟 Regional Malayalam",Asianet Movies
-https://delta31tatasky.akamaized.net/out/i/29273.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/87
+#EXTINF:-1 tvg-id="ts87" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png" group-title="🌟 Regional Malayalam",Manorama News
+https://tataplay.code-crafters.app/manifest/87.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/66
@@ -2713,19 +2724,14 @@ https://delta31tatasky.akamaized.net/out/i/29273.mpd
 https://tataplay.code-crafters.app/manifest/66.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/87
-#EXTINF:-1 tvg-id="ts87" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png" group-title="🌟 Regional Malayalam",Manorama News
-https://tataplay.code-crafters.app/manifest/87.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/211
+#EXTINF:-1 tvg-id="ts211" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-855-j5ma1eig-v2/imageContent-855-j5ma1eig-m2.png" group-title="🌟 Regional Malayalam",Kairali News
+https://tataplay.code-crafters.app/manifest/211.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/394
 #EXTINF:-1 tvg-id="ts394" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11572-j9jv7wi0-v1/imageContent-11572-j9jv7wi0-m1.png" group-title="🌟 Regional Malayalam",Mathrubhumi News
 https://tataplay.code-crafters.app/manifest/394.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/211
-#EXTINF:-1 tvg-id="ts211" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-855-j5ma1eig-v2/imageContent-855-j5ma1eig-m2.png" group-title="🌟 Regional Malayalam",Kairali News
-https://tataplay.code-crafters.app/manifest/211.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/370
@@ -2758,14 +2764,14 @@ https://tataplay.code-crafters.app/manifest/428.mpd
 https://tataplay.code-crafters.app/manifest/799.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1313
-#EXTINF:-1 tvg-id="ts1313" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SHEKINAH_Thumbnail-v2/SHEKINAH_Thumbnail.png" group-title="📰 News",SHEKINAH
-https://tataplay.code-crafters.app/manifest/1313.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1124
 #EXTINF:-1 tvg-id="ts1124" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RETV_Thumbnail-v2/RETV_Thumbnail.png" group-title="📰 News",Reporter TV
 https://tataplay.code-crafters.app/manifest/1124.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1313
+#EXTINF:-1 tvg-id="ts1313" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SHEKINAH_Thumbnail-v2/SHEKINAH_Thumbnail.png" group-title="📰 News",SHEKINAH
+https://tataplay.code-crafters.app/manifest/1313.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/541
@@ -2788,14 +2794,14 @@ https://tataplay.code-crafters.app/manifest/269.mpd
 https://tataplay.code-crafters.app/manifest/356.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/348
-#EXTINF:-1 tvg-id="ts348" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35638-jruyxl0g-v4/imageContent-35638-jruyxl0g-m7.PNG" group-title="🌟 Regional Malayalam",Harvest TV 24x7
-https://tataplay.code-crafters.app/manifest/348.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/457
 #EXTINF:-1 tvg-id="ts457" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11772-j9kwsqns-v1/imageContent-11772-j9kwsqns-m1.png" group-title="🌟 Regional Malayalam",Shalom TV
 https://tataplay.code-crafters.app/manifest/457.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/348
+#EXTINF:-1 tvg-id="ts348" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35638-jruyxl0g-v4/imageContent-35638-jruyxl0g-m7.PNG" group-title="🌟 Regional Malayalam",Harvest TV 24x7
+https://tataplay.code-crafters.app/manifest/348.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/571
@@ -2836,24 +2842,14 @@ https://tataplay.code-crafters.app/manifest/1083.mpd
 https://tataplay.code-crafters.app/manifest/624.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/580
-#EXTINF:-1 tvg-id="ts580" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12155-j9pd5ug8-v1/imageContent-12155-j9pd5ug8-m1.png" group-title="🌟 Regional Punjabi",Zee Punjab Haryana Himachal Pradesh
-https://tataplay.code-crafters.app/manifest/580.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/794
 #EXTINF:-1 tvg-id="ts794" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48860-k4nlxy14-v2/imageContent-48860-k4nlxy14-m2.png" group-title="🌟 Regional Punjabi",PTC Punjabi Gold
 https://tataplay.code-crafters.app/manifest/794.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/91
-#EXTINF:-1 tvg-id="ts91" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-300-j5ji8seo-v1/imageContent-300-j5ji8seo-m1.png" group-title="🌟 Regional Punjabi",PTC News
-https://tataplay.code-crafters.app/manifest/91.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/232
-#EXTINF:-1 tvg-id="ts232" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v2/imageContent-1011-j5ng33kg-m2.png" group-title="📰 News",News18 Punjab Haryana
-https://tataplay.code-crafters.app/manifest/232.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/580
+#EXTINF:-1 tvg-id="ts580" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12155-j9pd5ug8-v1/imageContent-12155-j9pd5ug8-m1.png" group-title="🌟 Regional Punjabi",Zee Punjab Haryana Himachal Pradesh
+https://tataplay.code-crafters.app/manifest/580.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/366
@@ -2861,14 +2857,24 @@ https://tataplay.code-crafters.app/manifest/232.mpd
 https://tataplay.code-crafters.app/manifest/366.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/13
-#EXTINF:-1 tvg-id="ts13" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8968-j7rcix2w-v1/imageContent-8968-j7rcix2w-m1.png" group-title="📰 News",India News Haryana
-https://tataplay.code-crafters.app/manifest/13.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/232
+#EXTINF:-1 tvg-id="ts232" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v2/imageContent-1011-j5ng33kg-m2.png" group-title="📰 News",News18 Punjab Haryana
+https://tataplay.code-crafters.app/manifest/232.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/91
+#EXTINF:-1 tvg-id="ts91" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-300-j5ji8seo-v1/imageContent-300-j5ji8seo-m1.png" group-title="🌟 Regional Punjabi",PTC News
+https://tataplay.code-crafters.app/manifest/91.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/371
 #EXTINF:-1 tvg-id="ts371" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11502-j9jtlmi8-v3/imageContent-11502-j9jtlmi8-m4.png" group-title="📰 News",Janta TV
 https://tataplay.code-crafters.app/manifest/371.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/13
+#EXTINF:-1 tvg-id="ts13" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8968-j7rcix2w-v1/imageContent-8968-j7rcix2w-m1.png" group-title="📰 News",India News Haryana
+https://tataplay.code-crafters.app/manifest/13.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/401
@@ -2881,19 +2887,14 @@ https://tataplay.code-crafters.app/manifest/401.mpd
 https://tataplay.code-crafters.app/manifest/787.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/972
-#EXTINF:-1 tvg-id="ts972" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69238-kzt9ig3k-v1/imageContent-69238-kzt9ig3k-m2.png" group-title="🌟 Regional Hindi",Khabar Fast
-https://tataplay.code-crafters.app/manifest/972.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/793
 #EXTINF:-1 tvg-id="ts793" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57445-kg7p5yk8-v2/imageContent-57445-kg7p5yk8-m3.png" group-title="🌟 Regional Punjabi",Living India News
 https://tataplay.code-crafters.app/manifest/793.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1078
-#EXTINF:-1 tvg-id="ts1078" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DAILYP_Thumbnail-v3/DAILYP_Thumbnail.png" group-title="📰 News",Daily Post Punjab Haryana Himachal
-https://tataplay.code-crafters.app/manifest/1078.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/972
+#EXTINF:-1 tvg-id="ts972" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69238-kzt9ig3k-v1/imageContent-69238-kzt9ig3k-m2.png" group-title="🌟 Regional Hindi",Khabar Fast
+https://tataplay.code-crafters.app/manifest/972.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/262
@@ -2904,6 +2905,11 @@ https://tataplay.code-crafters.app/manifest/262.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/989
 #EXTINF:-1 tvg-id="ts989" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71064-l427mi60-v2/imageContent-71064-l427mi60-m3.png" group-title="📰 News",STV Haryana News
 https://tataplay.code-crafters.app/manifest/989.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1078
+#EXTINF:-1 tvg-id="ts1078" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DAILYP_Thumbnail-v3/DAILYP_Thumbnail.png" group-title="📰 News",Daily Post Punjab Haryana Himachal
+https://tataplay.code-crafters.app/manifest/1078.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1085
@@ -2926,14 +2932,14 @@ https://tataplay.code-crafters.app/manifest/92.mpd
 https://tataplay.code-crafters.app/manifest/922.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/193
-#EXTINF:-1 tvg-id="ts193" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-792-j5m75dww-v1/imageContent-792-j5m75dww-m1.png" group-title="🌟 Regional Punjabi",Chardikla Time TV
-https://tataplay.code-crafters.app/manifest/193.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/936
 #EXTINF:-1 tvg-id="ts936" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PUNHTS_Thumbnail-v1/PUNHTS_Thumbnail.png" group-title="🌟 Regional Punjabi",Punjabi Hits
 https://tataplay.code-crafters.app/manifest/936.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/193
+#EXTINF:-1 tvg-id="ts193" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-792-j5m75dww-v1/imageContent-792-j5m75dww-m1.png" group-title="🌟 Regional Punjabi",Chardikla Time TV
+https://tataplay.code-crafters.app/manifest/193.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/773
@@ -2945,6 +2951,8 @@ https://tataplay.code-crafters.app/manifest/773.mpd
 #EXTINF:-1 tvg-id="ts567" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12106-j9ooxpug-v2/imageContent-12106-j9ooxpug-m2.png" group-title="🌍 Regional Others",Nepal 1
 https://tataplay.code-crafters.app/manifest/567.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/101
 #EXTINF:-1 tvg-id="ts101" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-333-j5jl5q6o-v1/imageContent-333-j5jl5q6o-m1.png" group-title="🌍 Regional Others",Rang
 https://tataplay.code-crafters.app/manifest/101.mpd
 
@@ -2969,14 +2977,14 @@ https://tataplay.code-crafters.app/manifest/368.mpd
 https://tataplay.code-crafters.app/manifest/47.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/68
-#EXTINF:-1 tvg-id="ts68" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12390-jai3fgy0-v1/imageContent-12390-jai3fgy0-m1.png" group-title="🌍 Regional Others",News18 Assam North East
-https://tataplay.code-crafters.app/manifest/68.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/353
 #EXTINF:-1 tvg-id="ts353" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11411-j9jqocds-v1/imageContent-11411-j9jqocds-m1.png" group-title="🌍 Regional Others",DY 365
 https://tataplay.code-crafters.app/manifest/353.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/68
+#EXTINF:-1 tvg-id="ts68" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12390-jai3fgy0-v1/imageContent-12390-jai3fgy0-m1.png" group-title="🌍 Regional Others",News18 Assam North East
+https://tataplay.code-crafters.app/manifest/68.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/226
@@ -2989,19 +2997,14 @@ https://tataplay.code-crafters.app/manifest/226.mpd
 https://tataplay.code-crafters.app/manifest/221.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/417
-#EXTINF:-1 tvg-id="ts417" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11644-j9k1gjow-v1/imageContent-11644-j9k1gjow-m1.png" group-title="🌍 Regional Others",North East Live
-https://tataplay.code-crafters.app/manifest/417.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/423
 #EXTINF:-1 tvg-id="ts423" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11673-j9kfe73s-v1/imageContent-11673-j9kfe73s-m1.png" group-title="🌍 Regional Others",Prag News
 https://tataplay.code-crafters.app/manifest/423.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/898
-#EXTINF:-1 tvg-id="ts898" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HORNBLTV_Thumbnail-v2/HORNBLTV_Thumbnail.png" group-title="🌍 Regional Others",Hornbill TV
-https://tataplay.code-crafters.app/manifest/898.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/417
+#EXTINF:-1 tvg-id="ts417" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11644-j9k1gjow-v1/imageContent-11644-j9k1gjow-m1.png" group-title="🌍 Regional Others",North East Live
+https://tataplay.code-crafters.app/manifest/417.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/894
@@ -3009,12 +3012,15 @@ https://tataplay.code-crafters.app/manifest/898.mpd
 https://tataplay.code-crafters.app/manifest/894.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/898
+#EXTINF:-1 tvg-id="ts898" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HORNBLTV_Thumbnail-v2/HORNBLTV_Thumbnail.png" group-title="🌍 Regional Others",Hornbill TV
+https://tataplay.code-crafters.app/manifest/898.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/977
 #EXTINF:-1 tvg-id="ts977" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69824-l1dfgvcg-v1/imageContent-69824-l1dfgvcg-m3.png" group-title="🌍 Regional Others",ND24-Newsdaily.in
 https://tataplay.code-crafters.app/manifest/977.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1076
 #EXTINF:-1 tvg-id="ts1076" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NBNEWS_Thumbnail-v2/NBNEWS_Thumbnail.png" group-title="🌍 Regional",NB News
 https://tataplay.code-crafters.app/manifest/1076.mpd
 
@@ -3043,16 +3049,13 @@ https://tataplay.code-crafters.app/manifest/325.mpd
 #EXTINF:-1 tvg-id="ts449" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11728-j9kw1zp4-v1/imageContent-11728-j9kw1zp4-m1.png" group-title="🌍 Regional Others",Ramdhenu
 https://tataplay.code-crafters.app/manifest/449.mpd
 
-#EXTINF:-1 tvg-id="ts1299" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EngageCaptainCam_Thumbnail-v1/EngageCaptainCam_Thumbnail.png" group-title="⚽ Sports",Engage - Star Cam
-https://tataplay.code-crafters.app/manifest/1299.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/991
 #EXTINF:-1 tvg-id="ts991" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71497-l4stx05k-v3/imageContent-71497-l4stx05k-m5.png" group-title="🌍 Regional",DD Meghalaya
 https://tataplay.code-crafters.app/manifest/991.mpd
 
-#EXTINF:-1 tvg-id="ts1277" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NAVTEJTV_Thumbnail-v1/NAVTEJTV_Thumbnail.png" group-title="📰 News",Nav Tej TV
-https://cable72tataplay.akamaized.net/navtejtv/navtejtv/index.mpd
+#EXTINF:-1 tvg-id="ts1299" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EngageCaptainCam_Thumbnail-v1/EngageCaptainCam_Thumbnail.png" group-title="⚽ Sports",Engage - Star Cam
+https://tataplay.code-crafters.app/manifest/1299.mpd
 
 #EXTINF:-1 tvg-id="ts1284" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SANPLTV_Thumbnail-v1/SANPLTV_Thumbnail.png" group-title="🌍 Regional",Sana Plus TV
 https://cable74tataplay.akamaized.net/dash/sanaplus.mpd
@@ -3063,6 +3066,9 @@ https://cable75tataplay.akamaized.net/dash/sanatv.mpd
 #EXTINF:-1 tvg-id="ts1278" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRIMETV_Thumbnail-v1/PRIMETV_Thumbnail.png" group-title="📰 News",Prime TV
 https://cable71tataplay.akamaized.net/primetv/primetv/index.mpd
 
+#EXTINF:-1 tvg-id="ts1277" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NAVTEJTV_Thumbnail-v1/NAVTEJTV_Thumbnail.png" group-title="📰 News",Nav Tej TV
+https://cable72tataplay.akamaized.net/navtejtv/navtejtv/index.mpd
+
 #EXTINF:-1 tvg-id="ts1281" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SAM24NEWS_Thumbnail-v1/SAM24NEWS_Thumbnail.png" group-title="📰 News",Samachar 24 News
 https://cable73tataplay.akamaized.net/samachar24/samachar24/index.mpd
 
@@ -3072,14 +3078,14 @@ https://cable73tataplay.akamaized.net/samachar24/samachar24/index.mpd
 https://delta45tatasky.akamaized.net/out/i/1357.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/912
-#EXTINF:-1 tvg-id="ts912" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png" group-title="🎵 Music",Haryana Beats
-https://delta45tatasky.akamaized.net/out/i/1201.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/791
 #EXTINF:-1 tvg-id="ts791" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48804-k4m7nz2w-v1/imageContent-48804-k4m7nz2w-m1.png" group-title="🌟 Regional Punjabi",Fateh TV
 https://delta45tatasky.akamaized.net/out/i/1147.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/912
+#EXTINF:-1 tvg-id="ts912" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png" group-title="🎵 Music",Haryana Beats
+https://delta45tatasky.akamaized.net/out/i/1201.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/807
@@ -3091,11 +3097,11 @@ https://delta45tatasky.akamaized.net/out/i/1175.mpd
 #EXTINF:-1 tvg-id="ts782" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47615-k2jwaqug-v1/imageContent-47615-k2jwaqug-m3.png" group-title="🌟 Regional Kannada",Namma TV
 https://delta45tatasky.akamaized.net/out/i/1205.mpd
 
-#EXTINF:-1 tvg-id="ts781" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47612-k2jw4vfc-v1/imageContent-47612-k2jw4vfc-m4.png" group-title="🌟 Regional Marathi",Prudent
-https://cable21tataplay.akamaized.net/prudentm.m3u8
-
 #EXTINF:-1 tvg-id="ts819" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53443-kanbrwjs-v1/imageContent-53443-kanbrwjs-m1.png" group-title="🌟 Regional Marathi",RDX Goa
 https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="ts781" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47612-k2jw4vfc-v1/imageContent-47612-k2jw4vfc-m4.png" group-title="🌟 Regional Marathi",Prudent
+https://cable21tataplay.akamaized.net/prudentm.m3u8
 
 #EXTINF:-1 tvg-id="ts1290" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TVRIW_Thumbnail-v2/TVRIW_Thumbnail.png" group-title="📰 News",TVRI World
 https://delta45tatasky.akamaized.net/out/i/1537.mpd
@@ -3137,26 +3143,26 @@ https://cable70tataplay.akamaized.net/stream/dash/sangam.mpd
 #EXTINF:-1 tvg-id="ts1256" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/OYEMUS_Thumbnail-v3/OYEMUS_Thumbnail.png" group-title="🎵 Music",Oye Music
 https://cable67tataplay.akamaized.net/OyeMusic/myStream/manifest.mpd
 
-#EXTINF:-1 tvg-id="ts1255" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/UpdateIndia_Thumbnail-v2/UpdateIndia_Thumbnail.png" group-title="📰 News",Update India
-https://cable66tataplay.akamaized.net/UpdateIndia/myStream/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/841
 #EXTINF:-1 tvg-id="ts841" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAK_Thumbnail-v3/MAHAK_Thumbnail.png" group-title="🙏 Spiritual",Mahakaleshwar Temple, Ujjain
 https://delta45tatasky.akamaized.net/out/i/1299.mpd
 
+#EXTINF:-1 tvg-id="ts1255" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/UpdateIndia_Thumbnail-v2/UpdateIndia_Thumbnail.png" group-title="📰 News",Update India
+https://cable66tataplay.akamaized.net/UpdateIndia/myStream/manifest.mpd
+
 #EXTINF:-1 tvg-id="ts931" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64523-krkg6p88-v1/imageContent-64523-krkg6p88-m1.png" group-title="🎭 Entertainment",Green Chillies TV
 https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/892
-#EXTINF:-1 tvg-id="ts892" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61629-kmlgw3yw-v2/imageContent-61629-kmlgw3yw-m5.png" group-title="📰 News",Samara News
-https://delta45tatasky.akamaized.net/out/i/767.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/947
 #EXTINF:-1 tvg-id="ts947" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65977-ku6g2hko-v3/imageContent-65977-ku6g2hko-m3.png" group-title="🙏 Spiritual",Live Patna Sahib Patna
 https://delta45tatasky.akamaized.net/out/i/496.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/892
+#EXTINF:-1 tvg-id="ts892" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61629-kmlgw3yw-v2/imageContent-61629-kmlgw3yw-m5.png" group-title="📰 News",Samara News
+https://delta45tatasky.akamaized.net/out/i/767.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/949
@@ -3174,13 +3180,18 @@ https://delta45tatasky.akamaized.net/out/i/1316.mpd
 #EXTINF:-1 tvg-id="ts962" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67709-kwogo2pc-v1/imageContent-67709-kwogo2pc-m1.png" group-title="🌟 Regional Hindi",ANN News
 https://cable25tataplay.akamaized.net/annnews/annnews/index.m3u8
 
+#EXTINF:-1 tvg-id="ts1002" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72161-l60vjz1c-v3/imageContent-72161-l60vjz1c-m3.png" group-title="🙏 Spiritual",Saileela TV
+https://server.thelegitpro.in/saileelatv/saileelatv/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1008
 #EXTINF:-1 tvg-id="ts1008" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72306-l6hr8log-v1/imageContent-72306-l6hr8log-m1.png" group-title="🙏 Spiritual",Shri ISKCON Girgaon, Mumbai
 https://delta45tatasky.akamaized.net/out/i/910.mpd
 
-#EXTINF:-1 tvg-id="ts1002" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72161-l60vjz1c-v3/imageContent-72161-l60vjz1c-m3.png" group-title="🙏 Spiritual",Saileela TV
-https://server.thelegitpro.in/saileelatv/saileelatv/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1004
+#EXTINF:-1 tvg-id="ts1004" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72303-l6hqin9k-v1/imageContent-72303-l6hqin9k-m2.png" group-title="🙏 Spiritual",Shri Ganga Aarti, Varanasi
+https://delta45tatasky.akamaized.net/out/i/905.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1007
@@ -3191,11 +3202,6 @@ https://delta45tatasky.akamaized.net/out/i/915.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1006
 #EXTINF:-1 tvg-id="ts1006" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72312-l6hsvue8-v1/imageContent-72312-l6hsvue8-m2.png" group-title="🕉️ Devotional",Shri Mahalaxmi Temple, Mumbai
 https://delta45tatasky.akamaized.net/out/i/920.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1004
-#EXTINF:-1 tvg-id="ts1004" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72303-l6hqin9k-v1/imageContent-72303-l6hqin9k-m2.png" group-title="🙏 Spiritual",Shri Ganga Aarti, Varanasi
-https://delta45tatasky.akamaized.net/out/i/905.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1005
@@ -3221,17 +3227,17 @@ https://jansetutataplay.akamaized.net/hls10/jansetunews/index.m3u8
 #EXTINF:-1 tvg-id="ts1041" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TVP_Thumbnail-v1/TVP_Thumbnail.png" group-title="📰 News",TV Punjab
 https://hls.tvpunjab.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ts1042" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BLSTV_Thumbnail-v1/BLSTV_Thumbnail.png" group-title="🙏 Spiritual",Bless TV
-https://blesstvtataplay.akamaized.net/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ts1043" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NAKD_Thumbnail-v1/NAKD_Thumbnail.png" group-title="🎭 Entertainment",Nakshatra Digital
 https://nakshatratataplay.akamaized.net/nakshatradigital/nakshatradigital/index.m3u8
 
-#EXTINF:-1 tvg-id="ts1060" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/LIVPU_Thumbnail-v1/LIVPU_Thumbnail.png" group-title="📰 News",Live Punjabi
-https://cable15tataplay.akamaized.net/livepunjabi/livepunjabi/index.m3u8
+#EXTINF:-1 tvg-id="ts1042" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BLSTV_Thumbnail-v1/BLSTV_Thumbnail.png" group-title="🙏 Spiritual",Bless TV
+https://blesstvtataplay.akamaized.net/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts1044" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/GBIN_Thumbnail-v1/GBIN_Thumbnail.png" group-title="📰 News",Global India
 https://globalindia.akamaized.net/globalindiatv/globalindiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="ts1060" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/LIVPU_Thumbnail-v1/LIVPU_Thumbnail.png" group-title="📰 News",Live Punjabi
+https://cable15tataplay.akamaized.net/livepunjabi/livepunjabi/index.m3u8
 
 #EXTINF:-1 tvg-id="ts1059" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INDNWS_Thumbnail-v1/INDNWS_Thumbnail.png" group-title="📰 News",Indian News
 https://cable12tataplay.akamaized.net/indiannews/index.m3u8
@@ -3244,24 +3250,19 @@ https://cable14tataplay.akamaized.net/aajkikhabar/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="ts1070" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MEDI9_Thumbnail-v1/MEDI9_Thumbnail.png" group-title="📰 News",MEDIA 9
 https://delta45tatasky.akamaized.net/out/i/1445.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1079
 #EXTINF:-1 tvg-id="ts1079" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TTN24_Thumbnail-v2/TTN24_Thumbnail.png" group-title="📰 News",TTN 24
 https://delta45tatasky.akamaized.net/out/i/1327.mpd
 
 #EXTINF:-1 tvg-id="ts1080" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/UBANTV_Thumbnail-v1/UBANTV_Thumbnail.png" group-title="📰 News",U Bangla TV
 https://ubangla.akamaized.net/hls/ubangla.m3u8
 
+#EXTINF:-1 tvg-id="ts1196" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBHO_Thumbnail-v1/EKMBHO_Thumbnail.png" group-title="💡 Infotainment",Ekamra Bharat Odia
+https://cable31tataplay.akamaized.net/bharat/bharat/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1171
 #EXTINF:-1 tvg-id="ts1171" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SIBM_Thumbnail-v4/SIBM_Thumbnail.png" group-title="🙏 Spiritual",Shree Ichchhapuran Balaji Mandir
 https://delta45tatasky.akamaized.net/out/i/1412.mpd
-
-#EXTINF:-1 tvg-id="ts1196" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBHO_Thumbnail-v1/EKMBHO_Thumbnail.png" group-title="💡 Infotainment",Ekamra Bharat Odia
-https://cable31tataplay.akamaized.net/bharat/bharat/index.mpd
-
-#EXTINF:-1 tvg-id="ts1199" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMUS_Thumbnail-v1/EKMUS_Thumbnail.png" group-title="🎵 Music",Ekamra  Music
-https://cable37tataplay.akamaized.net/musiq/musiq/index.mpd
 
 #EXTINF:-1 tvg-id="ts1197" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMNIL_Thumbnail-v1/EKMNIL_Thumbnail.png" group-title="🎭 Entertainment",Ekamra Nilachakra
 https://cable33tataplay.akamaized.net/nilachakra/nilachakra/index.mpd
@@ -3269,8 +3270,14 @@ https://cable33tataplay.akamaized.net/nilachakra/nilachakra/index.mpd
 #EXTINF:-1 tvg-id="ts1198" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMCYN_Thumbnail-v1/EKMCYN_Thumbnail.png" group-title="🎬 Movies",Ekamra Cynema
 https://cable35tataplay.akamaized.net/cynema/cynema/index.mpd
 
+#EXTINF:-1 tvg-id="ts1199" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMUS_Thumbnail-v1/EKMUS_Thumbnail.png" group-title="🎵 Music",Ekamra  Music
+https://cable37tataplay.akamaized.net/musiq/musiq/index.mpd
+
 #EXTINF:-1 tvg-id="ts1200" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMJAT_Thumbnail-v1/EKMJAT_Thumbnail.png" group-title="🎭 Entertainment",Ekamra Jatra
 https://cable39tataplay.akamaized.net/jatra/jatra/index.mpd
+
+#EXTINF:-1 tvg-id="ts1201" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMPRM_Thumbnail-v1/EKMPRM_Thumbnail.png" group-title="🕉️ Devotional",Ekamra Paramatma
+https://cable41tataplay.akamaized.net/paramatma/paramatma/index.mpd
 
 #EXTINF:-1 tvg-id="ts1202" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMOPS_Thumbnail-v1/EKMOPS_Thumbnail.jpg" group-title="💡 Infotainment",Ekamra One paschima
 https://cable43tataplay.akamaized.net/onepaschima/onepaschima/index.mpd
@@ -3278,17 +3285,14 @@ https://cable43tataplay.akamaized.net/onepaschima/onepaschima/index.mpd
 #EXTINF:-1 tvg-id="ts1203" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/IN24X7_Thumbnail-v1/IN24X7_Thumbnail.png" group-title="📰 News",India 24x7
 https://cable45tataplay.akamaized.net/india24x7/india24x7/index.mpd
 
-#EXTINF:-1 tvg-id="ts1201" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMPRM_Thumbnail-v1/EKMPRM_Thumbnail.png" group-title="🕉️ Devotional",Ekamra Paramatma
-https://cable41tataplay.akamaized.net/paramatma/paramatma/index.mpd
-
 #EXTINF:-1 tvg-id="ts1204" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CITYM_Thumbnail-v1/CITYM_Thumbnail.png" group-title="🎵 Music",City Music
 https://cable47tataplay.akamaized.net/citymusic/citymusic/index.mpd
 
-#EXTINF:-1 tvg-id="ts1205" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/OMM_Thumbnail-v1/OMM_Thumbnail.png" group-title="🕉️ Devotional",Omm
-https://cable49tataplay.akamaized.net/omm/omm/index.mpd
-
 #EXTINF:-1 tvg-id="ts1206" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBCS_Thumbnail-v1/EKMBCS_Thumbnail.png" group-title="🎭 Entertainment",Ekamra Baiscope
 https://cable51tataplay.akamaized.net/baiscope/baiscope/index.mpd
+
+#EXTINF:-1 tvg-id="ts1205" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/OMM_Thumbnail-v1/OMM_Thumbnail.png" group-title="🕉️ Devotional",Omm
+https://cable49tataplay.akamaized.net/omm/omm/index.mpd
 
 #EXTINF:-1 tvg-id="ts1207" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMMNR_Thumbnail-v1/EKMMNR_Thumbnail.png" group-title="🎭 Entertainment",Ekamra Manoranjan
 https://cable53tataplay.akamaized.net/manoranjan/manoranjan/index.mpd
@@ -3296,11 +3300,11 @@ https://cable53tataplay.akamaized.net/manoranjan/manoranjan/index.mpd
 #EXTINF:-1 tvg-id="ts1208" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMHCL_Thumbnail-v2/EKMHCL_Thumbnail.png" group-title="🎭 Entertainment",News 8 odia
 https://cable55tataplay.akamaized.net/halchal/halchal/index.mpd
 
-#EXTINF:-1 tvg-id="ts1209" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKSNWS_Thumbnail-v1/EKSNWS_Thumbnail.png" group-title="📰 News",Ekamra snews
-https://cable57tataplay.akamaized.net/snews/snews/index.mpd
-
 #EXTINF:-1 tvg-id="ts1245" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NATTODAY24X7_Thumbnail-v1/NATTODAY24X7_Thumbnail.png" group-title="🌍 Regional",National Today 24x7
 https://cable59tataplay.akamaized.net/cmaf/nationaltoday24/index.mpd
+
+#EXTINF:-1 tvg-id="ts1209" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKSNWS_Thumbnail-v1/EKSNWS_Thumbnail.png" group-title="📰 News",Ekamra snews
+https://cable57tataplay.akamaized.net/snews/snews/index.mpd
 
 #EXTINF:-1 tvg-id="ts1244" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NBHARAT_Thumbnail-v1/NBHARAT_Thumbnail.png" group-title="🌍 Regional",N Bharat
 https://cable64tataplay.akamaized.net/Nbharat/Nbharat/index.mpd
@@ -3308,17 +3312,17 @@ https://cable64tataplay.akamaized.net/Nbharat/Nbharat/index.mpd
 #EXTINF:-1 tvg-id="ts1247" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/35MM_Thumbnail-v1/35MM_Thumbnail.png" group-title="🙏 Spiritual",35 MM
 https://cable63tataplay.akamaized.net/6/35mm/index.mpd
 
-#EXTINF:-1 tvg-id="ts1243" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MARHNDTV_Thumbnail-v1/MARHNDTV_Thumbnail.png" group-title="📰 News",Marudharhind TV
-https://cable61tataplay.akamaized.net/marudharhind24/marudharhind24/index.mpd
-
 #EXTINF:-1 tvg-id="ts1242" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/IN24NEWS_Thumbnail-v1/IN24NEWS_Thumbnail.png" group-title="🌍 Regional",In24 News
 https://cable62tataplay.akamaized.net/in24news/in24news/index.mpd
 
-#EXTINF:-1 tvg-id="ts1246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VANDEBHNEWS_Thumbnail-v1/VANDEBHNEWS_Thumbnail.png" group-title="📰 News",Vande Bharat News
-https://cable60tataplay.akamaized.net/vandebharat/vandebharat/index.mpd
+#EXTINF:-1 tvg-id="ts1243" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MARHNDTV_Thumbnail-v1/MARHNDTV_Thumbnail.png" group-title="📰 News",Marudharhind TV
+https://cable61tataplay.akamaized.net/marudharhind24/marudharhind24/index.mpd
 
 #EXTINF:-1 tvg-id="ts1252" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HARBUZ_Thumbnail-v2/HARBUZ_Thumbnail.png" group-title="🧠 Knowledge",Haryana Buzz
 https://cable68tataplay.akamaized.net/HaryanaBuzz/myStream/manifest.mpd
+
+#EXTINF:-1 tvg-id="ts1246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VANDEBHNEWS_Thumbnail-v1/VANDEBHNEWS_Thumbnail.png" group-title="📰 News",Vande Bharat News
+https://cable60tataplay.akamaized.net/vandebharat/vandebharat/index.mpd
 
 #EXTINF:-1 tvg-id="ts1253" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JEEWBHAKTI_Thumbnail-v2/JEEWBHAKTI_Thumbnail.png" group-title="🙏 Spiritual",Jeewan Bhakti
 https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/manifest.mpd

@@ -4,7 +4,7 @@
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Type: TATAPLAY | (India) Geo-blocked
-# (●) Last Update: 2024-04-07 19:08:30 UTC
+# (●) Last Update: 2024-04-07 20:08:44 UTC
 # (●) Total Channels: 695
 # (●) Join: https://t.me/realcodecrafters
 
@@ -475,6 +475,8 @@ https://tataplay.code-crafters.app/manifest/78.mpd
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="⚽ Sports",Star Sports 2 HD
 https://tataplay.code-crafters.app/manifest/235.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/24
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="⚽ Sports",Star Sports 1 Hindi HD
 https://tataplay.code-crafters.app/manifest/24.mpd
 
@@ -1353,6 +1355,8 @@ https://tataplay.code-crafters.app/manifest/899.mpd
 #EXTINF:-1 tvg-id="ts1165" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RPCHK_Thumbnail-v2/RPCHK_Thumbnail.png" group-title="🎬 Movies",Raapchik
 https://tataplay.code-crafters.app/manifest/1165.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/79
 #EXTINF:-1 tvg-id="ts79" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23223-jeyhnzfs-v1/imageContent-23223-jeyhnzfs-m1.png" group-title="🌟 Regional Hindi",News18 Uttar Pradesh Uttarakhand
 https://tataplay.code-crafters.app/manifest/79.mpd
 
@@ -1376,8 +1380,6 @@ https://tataplay.code-crafters.app/manifest/166.mpd
 #EXTINF:-1 tvg-id="ts20" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11140-j96syfuo-v1/imageContent-11140-j96syfuo-m1.png" group-title="🌟 Regional Hindi",Zee Bihar Jharkhand
 https://tataplay.code-crafters.app/manifest/20.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/30
 #EXTINF:-1 tvg-id="ts30" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9007-j7ss7x80-v1/imageContent-9007-j7ss7x80-m1.png" group-title="📰 News",India News UP UK
 https://tataplay.code-crafters.app/manifest/30.mpd
 
@@ -1454,6 +1456,8 @@ https://tataplay.code-crafters.app/manifest/222.mpd
 #EXTINF:-1 tvg-id="ts643" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31191-jldnwhhs-v1/imageContent-31191-jldnwhhs-m1.png" group-title="📰 News",News State MP CG
 https://tataplay.code-crafters.app/manifest/643.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/577
 #EXTINF:-1 tvg-id="ts577" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12143-j9p7vx9c-v1/imageContent-12143-j9p7vx9c-m1.png" group-title="📰 News",Swaraj Express SMBC
 https://tataplay.code-crafters.app/manifest/577.mpd
 
@@ -2022,8 +2026,6 @@ https://tataplay.code-crafters.app/manifest/1118.mpd
 #EXTINF:-1 tvg-id="ts1151" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MHNEWS_Thumbnail-v1/MHNEWS_Thumbnail.png" group-title="📰 News",MAHAA NEWS
 https://tataplay.code-crafters.app/manifest/1151.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1194
 #EXTINF:-1 tvg-id="ts1194" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BRKNEWS_Thumbnail-v1/BRKNEWS_Thumbnail.png" group-title="📰 News",BRK News
 https://tataplay.code-crafters.app/manifest/1194.mpd
 
@@ -2307,6 +2309,8 @@ https://tataplay.code-crafters.app/manifest/282.mpd
 #EXTINF:-1 tvg-id="ts408" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11622-j9k0845k-v2/imageContent-11622-j9k0845k-m2.png" group-title="🌟 Regional Tamil",Nambikkai TV
 https://tataplay.code-crafters.app/manifest/408.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/490
 #EXTINF:-1 tvg-id="ts490" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11882-j9l3qcrs-v1/imageContent-11882-j9l3qcrs-m1.png" group-title="🌟 Regional Telugu",SVBC 2
 https://tataplay.code-crafters.app/manifest/490.mpd
 
@@ -2553,8 +2557,6 @@ https://tataplay.code-crafters.app/manifest/654.mpd
 #EXTINF:-1 tvg-id="ts974" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/1STGUJ_Thumbnail-v2/1STGUJ_Thumbnail.png" group-title="🌟 Regional Gujarati",1st Gujarat
 https://tataplay.code-crafters.app/manifest/974.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1087
 #EXTINF:-1 tvg-id="ts1087" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRVEG_Thumbnail-v3/PRVEG_Thumbnail.png" group-title="📰 News",PRAVEG
 https://tataplay.code-crafters.app/manifest/1087.mpd
 
@@ -2780,6 +2782,8 @@ https://tataplay.code-crafters.app/manifest/1313.mpd
 #EXTINF:-1 tvg-id="ts541" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11688-j9kiz1zs-v1/imageContent-11688-j9kiz1zs-m1.png" group-title="🌟 Regional Malayalam",Raj Musix Malayalam
 https://tataplay.code-crafters.app/manifest/541.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/377
 #EXTINF:-1 tvg-id="ts377" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png" group-title="🌟 Regional Malayalam",Kappa TV
 https://tataplay.code-crafters.app/manifest/377.mpd
 

@@ -4,7 +4,7 @@
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Type: TATAPLAY | (India) Geo-blocked
-# (●) Last Update: 2024-04-07 07:10:22 UTC
+# (●) Last Update: 2024-04-07 08:10:51 UTC
 # (●) Total Channels: 695
 # (●) Join: https://t.me/realcodecrafters
 
@@ -1536,8 +1536,6 @@ https://tataplay.code-crafters.app/manifest/870.mpd
 #EXTINF:-1 tvg-id="ts1075" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SACHB_Thumbnail-v2/SACHB_Thumbnail.png" group-title="📰 News",Sach Bedhadak
 https://tataplay.code-crafters.app/manifest/1075.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/1152
 #EXTINF:-1 tvg-id="ts1152" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NDTVRA_Thumbnail-v3/NDTVRA_Thumbnail.png" group-title="📰 News",NDTV Rajasthan
 https://tataplay.code-crafters.app/manifest/1152.mpd
 
@@ -2191,8 +2189,6 @@ https://tataplay.code-crafters.app/manifest/659.mpd
 #EXTINF:-1 tvg-id="ts380" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="🌟 Regional Tamil",KTV HD
 https://tataplay.code-crafters.app/manifest/380.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/201
 #EXTINF:-1 tvg-id="ts201" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-816-j5m8dqd4-v1/imageContent-816-j5m8dqd4-m1.png" group-title="🌟 Regional Tamil",J Movies
 https://tataplay.code-crafters.app/manifest/201.mpd
 
@@ -3116,8 +3112,6 @@ https://cable21tataplay.akamaized.net/prudentm.m3u8
 #EXTINF:-1 tvg-id="ts1290" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TVRIW_Thumbnail-v2/TVRIW_Thumbnail.png" group-title="📰 News",TVRI World
 https://delta45tatasky.akamaized.net/out/i/1537.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/865
 #EXTINF:-1 tvg-id="ts865" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBHAKTI_Thumbnail-v3/BBHAKTI_Thumbnail.png" group-title="🌟 Regional Bengali",Bangla Bhakti
 https://delta45tatasky.akamaized.net/out/i/1211.mpd
 

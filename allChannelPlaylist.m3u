@@ -1,3 +1,4 @@
+#EXTM3U  x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1276&key
 #EXTINF:-1 tvg-id=ts1276 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ID-HD-LOGO_2000_X_1125_Transpharent.png" group-title="Tata Sky",Investigation Discovery HD

@@ -8,6 +8,27 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/81e640e5a2c74eb98201959a31a008a3/m
 #EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,BHOJPURI 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/84c3b9702e7a48659e79bf577bd8f497/master.m3u8
 
+#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",The Insider 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/82d7c37dc9ba4ad3ab7966194bee1385/master.m3u8
+
+#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Hang Out 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/b03529f8c0154d29ac5a225d78c6d65a/master.m3u8
+
+#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Hero Cam 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/5a74ceb567cd49e6ba8b1ebf2fdfec69/master.m3u8
+
+#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Batting Cam 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/d7648a7014b34333a4074a6efafcb19f/master.m3u8
+
+#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Multi Cam 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/1893486ccd08469e82b3fab606921c26/master.m3u8
+
+#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Stump Cam 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/b789111ea8854f8db2dc545541484f27/master.m3u8
+
+#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Spider Cam 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/a491dee5aa0f4e29a197ef1c043a1084/master.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1276&key
 #EXTINF:-1 tvg-id=ts1276 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ID-HD-LOGO_2000_X_1125_Transpharent.png" group-title="Tata Sky",Investigation Discovery HD

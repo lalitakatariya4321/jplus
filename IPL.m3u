@@ -10,3 +10,9 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/81e640e5a2c74eb98201959a31a008a3/m
 #EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,BHOJPURI 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/84c3b9702e7a48659e79bf577bd8f497/master.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000732&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjkyMjk1MDk4NjMxIn0.eyJzdWIiOiIxMzAyNDA1NjY1IiwiaXNlIjp0cnVlLCJqdGkiOiI5MTZlYTYzZi0yYmJhLTRiMDQtYTliNS0xYWM1MTQ2MzdmZDIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNzEzMDM5NTI4LCJuYW1lIjoiUmFtYWthbnQgWWFkYXYiLCJpYXQiOjE3MTMwMjUxMjgsImVudCI6W3siZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEyODAifV0sImNzbW8iOnsibWFzIjoiNiIsImR0IjoidHBtYSIsIm1hc2QiOiIyIn0sImlzcyI6InRwbWFfd2ViIn0.n9WWmH_T98M5aCKfvVfU7HWVO1IgT_yfTsi1gmAojLk
+#EXTINF:-1 tvg-id="ts689" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" ,Aaj Tak HD
+https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd?hdnea=exp=1713100000~acl=/*~hmac=300f612787a0bc142db5aacf25af6b548e049bb9e8b6455b59cbe7afe2cf12a9
+

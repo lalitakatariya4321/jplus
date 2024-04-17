@@ -9,7 +9,8 @@ https://plx.iptv18.tech/ultapulta.php?id=5069
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" } #EXTINF:-1 tvg-id="AstroCricket" group-title="🏏 IPL 2024" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket HD 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroCricket" group-title="🏏 IPL 2024" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket HD
 https://cbqh.short.gy/Bjtech_Astro.mpd
 
 #EXTINF:-1 tvg-id="41782" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/" group-title="🏏 IPL 2024",WILLOW

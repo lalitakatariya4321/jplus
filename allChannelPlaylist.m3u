@@ -1,4 +1,26 @@
 #EXTM3U  x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h9u0wdq2dx4ojpv7zu6h1/star4k.jpg?rlkey=1uuvttrotpelt0avb5cqjlmq7&dl=0" group-title="🏏 IPL 2024",Star 4k
+https://toxicify.pro/gz/jio.m3u8?id=18855
+
+#EXTINF:-1 tvg-id="9997" tvg-logo="https://static.toiimg.com/thumb/msid-98738864,imgsize-8010,width-400,resizemode-4/98738864.jpg" group-title="🏏 IPL 2024",Willow Cricket HD
+https://plx.iptv18.tech/ultapulta.php?id=5069
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" } #EXTINF:-1 tvg-id="AstroCricket" group-title="🏏 IPL 2024" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket HD 
+https://cbqh.short.gy/Bjtech_Astro.mpd
+
+#EXTINF:-1 tvg-id="41782" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/" group-title="🏏 IPL 2024",WILLOW
+https://toxicify.pro/stalker/jio.m3u8?id=41782
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="🏏 IPL 2024",Star Sports 3
+https://ardinesh-pc-remote.puspas.com.np/live-tv/wtc05/live/wtc05-universal/star-sports-3/index.ts
+
+#EXTINF:-1 tvg-id="ts78" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="🏏 IPL 2024",Willow Xtra
+https://ardinesh-pc-remote.puspas.com.np/live-tv/wtc05/live/wtc05-universal/willow-xtra-hd/index.ts
+
 #EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,ENGLISH 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/044ed31ae2974aadb03b5c5e9a67ab06/master.m3u8
 

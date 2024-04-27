@@ -1,55 +1,55 @@
 #EXTM3U x-tvg-url="https://bolt.toxic-gang.xyz/epg/aio.xml.gz"
 
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h9u0wdq2dx4ojpv7zu6h1/star4k.jpg?rlkey=1uuvttrotpelt0avb5cqjlmq7&dl=0" group-title="🏏 IPL 2024",Star 4k
+#EXTINF:-1 tvg-id="Toxic7878" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h9u0wdq2dx4ojpv7zu6h1/star4k.jpg?rlkey=1uuvttrotpelt0avb5cqjlmq7&dl=0" group-title="🏏 IPL 2024",Star 4k
 https://toxicify.pro/gz/jio.m3u8?id=18855
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket HD
+#EXTINF:-1 tvg-id="Toxic7878" group-title="🏏 IPL 2024" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket HD
 https://cbqh.short.gy/Bjtech_Astro.mpd
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,ENGLISH 4K
+#EXTINF:-1 tvg-id="Toxic7878" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,ENGLISH 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/044ed31ae2974aadb03b5c5e9a67ab06/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,HINDI 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,HINDI 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/81e640e5a2c74eb98201959a31a008a3/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,BHOJPURI 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,BHOJPURI 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/84c3b9702e7a48659e79bf577bd8f497/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,PUNJABI 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,PUNJABI 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/f6c2ee7b4b984c38925752716ed62ed3/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Hindi Ads free
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Hindi Ads free
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1100424/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",English Ads free
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",English Ads free
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1100424/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Bhojpuri Ads free
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Bhojpuri Ads free
 https://prod-ent-live-gm.jiocinema.com/out/v1/a77d9c6804ab4f14abbaf4874d26c6f9/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",The Insider 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",The Insider 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/82d7c37dc9ba4ad3ab7966194bee1385/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Hang Out 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Hang Out 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/b03529f8c0154d29ac5a225d78c6d65a/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Hero Cam 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Hero Cam 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/5a74ceb567cd49e6ba8b1ebf2fdfec69/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Batting Cam 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Batting Cam 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/d7648a7014b34333a4074a6efafcb19f/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Multi Cam 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Multi Cam 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/1893486ccd08469e82b3fab606921c26/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Stump Cam 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Stump Cam 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/b789111ea8854f8db2dc545541484f27/master.m3u8
 
-#EXTINF:-1 tvg-id="ts78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Spider Cam 4K
+#EXTINF:-1 tvg-id="Toxic78" group-title="🏏 IPL 2024" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png",Spider Cam 4K
 https://prod-ent-live-gm.jiocinema.com/out/v1/a491dee5aa0f4e29a197ef1c043a1084/master.m3u8
 
 
@@ -129,19 +129,8 @@ https://toxicify.pro/peace/kfc/244.mpd
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Toxic556" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" group-title="Entertainment", SET
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=556
-https://toxicify.pro/peace/kfc/556.mpd
-
 #EXTINF:-1 tvg-id="Toxic48" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment", SONY SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-
-#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-chno="154" group-title="Entertainment",Sony SAB
-https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sony_SAB_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic559" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="Entertainment", SONY SAB
 #KODIPROP:inputstream=inputstream.adaptive
@@ -159,7 +148,7 @@ https://toxicify.pro/peace/kfc/559.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=40
 https://toxicify.pro/peace/kfc/40.mpd
 
-#EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-chno="472" group-title="Entertainment",And TV HD
+#EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-chno="472" group-title="Entertainment",&tv HD
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/And_TV_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic578" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png" group-title="Entertainment", &TV
@@ -279,6 +268,9 @@ https://toxicify.pro/peace/kfc/1276.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=633
 https://toxicify.pro/peace/kfc/633.mpd
 
+#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" tvg-chno="527" group-title="Entertainment",Investigation Discovery
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/ID_MOB/Fallback/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Toxic551" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Entertainment", STAR Utsav
 #KODIPROP:inputstream=inputstream.adaptive
@@ -295,6 +287,9 @@ https://toxicify.pro/peace/kfc/551.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=523
 https://toxicify.pro/peace/kfc/523.mpd
+
+#EXTINF:-1 tvg-id="473" tvg-name="Zee Anmol" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png" tvg-chno="473" group-title="Entertainment",Zee Anmol
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Anmol_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic438" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png" group-title="Entertainment", Colors Rishtey
 #KODIPROP:inputstream=inputstream.adaptive
@@ -509,9 +504,6 @@ https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-id="Toxic132" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="Movies", SONY MAX
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
-#EXTINF:-1 tvg-id="289" tvg-name="Sony Max SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" tvg-chno="289" group-title="Movies",Sony Max SD
-https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sony_Max_SD_MOB/Fallback/index.m3u8
-
 #EXTINF:-1 tvg-id="Toxic1258" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCLC2_Thumbnail-v2/TPCLC2_Thumbnail.png" group-title="Others", Tata Play Classic Cinema 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -547,6 +539,9 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=123
 https://toxicify.pro/peace/kfc/123.mpd
 
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png" tvg-chno="484" group-title="Movies",Zee Cinema
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Cinema_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic175" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="Movies", Zee Bollywood
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -554,6 +549,12 @@ https://toxicify.pro/peace/kfc/123.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=175
 https://toxicify.pro/peace/kfc/175.mpd
+
+#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" tvg-chno="487" group-title="Movies",Zee Bollywood
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" tvg-chno="488" group-title="Movies",Zee Action
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic727" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png" group-title="Movies", Zee Classic
 #KODIPROP:inputstream=inputstream.adaptive
@@ -613,6 +614,9 @@ https://toxicify.pro/peace/kfc/677.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=61
 https://toxicify.pro/peace/kfc/61.mpd
+
+#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" tvg-chno="482" group-title="Movies",Colors Cineplex
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-chno="1477" group-title="Movies",Colors Cineplex HD
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Color_Cineplex_HD_MOB/Fallback/index.m3u8
@@ -690,6 +694,9 @@ https://toxicify.pro/peace/kfc/276.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=194
 https://toxicify.pro/peace/kfc/194.mpd
 
+#EXTINF:-1 tvg-id="485" tvg-name="Enterr 10" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Enterr_10.png" tvg-chno="485" group-title="Movies",Enterr 10
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Enterr_10_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="701" tvg-name="Dangal" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dangal.png" tvg-chno="701" group-title="Movies" ,Dangal
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Dangal_MOB/Fallback/index.m3u8
 
@@ -708,6 +715,9 @@ https://toxicify.pro/peace/kfc/296.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=64
 https://toxicify.pro/peace/kfc/64.mpd
+
+#EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" tvg-chno="415" group-title="Movies",Zee Anmol Cinema
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic1000" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="Others", Colors Cineplex Bollywood
 #KODIPROP:inputstream=inputstream.adaptive
@@ -996,6 +1006,9 @@ https://toxicify.pro/peace/kfc/153.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=259
 https://toxicify.pro/peace/kfc/259.mpd
 
+#EXTINF:-1 tvg-id="504" tvg-name="Zee News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" tvg-chno="504" group-title="News",Zee News
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_News_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic872" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58613-kj283ly8-v2/imageContent-58613-kj283ly8-m2.png" group-title="Spiritual", Tata Play Astro Duniya
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1030,6 +1043,9 @@ https://toxicify.pro/peace/kfc/1056.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=209
 https://toxicify.pro/peace/kfc/209.mpd
+
+#EXTINF:-1 tvg-id="501" tvg-name="News 24" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_24.png" tvg-chno="501" group-title="News",News 24
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/News_24_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic929" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png" group-title="Knowledge", Tata Play JEE Prep
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1082,6 +1098,9 @@ https://toxicify.pro/peace/kfc/696.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=183
 https://toxicify.pro/peace/kfc/183.mpd
 
+#EXTINF:-1 tvg-id="498" tvg-name="India news" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png" tvg-chno="498" group-title="News",India news
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/India_news_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic36" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-114-j5fl632o-v1/imageContent-114-j5fl632o-m1.png" group-title="News", News Nation
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1089,6 +1108,9 @@ https://toxicify.pro/peace/kfc/183.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=36
 https://toxicify.pro/peace/kfc/36.mpd
+
+#EXTINF:-1 tvg-id="499" tvg-name="News Nation" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png" tvg-chno="499" group-title="News",News Nation
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/News_Nation_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic706" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png" group-title="News", TV9 Bharatvarsh
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1159,6 +1181,12 @@ https://toxicify.pro/peace/kfc/1031.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=475
 https://toxicify.pro/peace/kfc/475.mpd
+
+#EXTINF:-1 tvg-id="518" tvg-name="Sudarshan" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sudarshan.png" tvg-chno="518" group-title="News",Sudarshan News
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sudarshan_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="519" tvg-name="Sadhna News Plus" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" tvg-chno="519" group-title="News",Sadhna News Plus
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sadhna_News_Plus_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic1051" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BHEXP_Thumbnail-v2/BHEXP_Thumbnail.png" group-title="Others", Bharat Express
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1304,6 +1332,9 @@ https://toxicify.pro/peace/kfc/260.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=278
 https://toxicify.pro/peace/kfc/278.mpd
 
+#EXTINF:-1 tvg-id="502" tvg-name="Good News Today" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tez.png" tvg-chno="502" group-title="News",Good News Today
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Tez_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic204" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png" group-title="News", CNBC Awaaz
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1322,6 +1353,12 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/CNBC_Awaaz_MOB/Fallback/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=213
 https://toxicify.pro/peace/kfc/213.mpd
+
+#EXTINF:-1 tvg-id="520" tvg-name="Sansad TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" tvg-chno="520" group-title="News",Sansad TV HD
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/DD_Rajyasabha_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="522" tvg-name="Sansad TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Loksabha_TV.png" tvg-chno="522" group-title="News",Sansad TV
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Loksabha_TV_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic212" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-858-j5ma94ag-v2/imageContent-858-j5ma94ag-m2.png" group-title="News", Sansad TV - Rajya Sabha
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1358,6 +1395,34 @@ https://toxicify.pro/peace/kfc/547.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=90
 https://toxicify.pro/peace/kfc/90.mpd
 
+#EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_NOW.png" tvg-chno="383" group-title="News",Times NOW
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Times_NOW_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="400" tvg-name="PM e Vidya 01" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_1.png" tvg-chno="400" group-title="Educations",PM e Vidya 01
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/evidya_1_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="401" tvg-name="Swayam Prabha 19" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png" tvg-chno="401" group-title="Educations",Swayam Prabha 19
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Swayam_Prabha_19_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="402" tvg-name="PM e Vidya 02" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_2.png" tvg-chno="402" group-title="Educations",PM e Vidya 02
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/evidya_2_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="403" tvg-name="Swayam Prabha 20" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png" tvg-chno="403" group-title="Educations",Swayam Prabha 20
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Swayam_Prabha_20_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="404" tvg-name="PM e Vidya 07" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_7.png" tvg-chno="404" group-title="Educations",PM e Vidya 07
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/evidya_7_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="PM e Vidya 03" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_3.png" tvg-chno="405" group-title="Educations",PM e Vidya 03
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/evidya_3_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="406" tvg-name="PM e Vidya 04" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_4.png" tvg-chno="406" group-title="Educations",PM e Vidya 04
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/evidya_4_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="407" tvg-name="PM e Vidya 05" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_5.png" tvg-chno="407" group-title="Educations",PM e Vidya 05
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/evidya_5_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="PM e Vidya 06" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_6.png" tvg-chno="408" group-title="Educations",PM e Vidya 06
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/evidya_6_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="409" tvg-name="PM e Vidya 08" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/_evidya_8.png" tvg-chno="409" group-title="Educations",PM e Vidya 08
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/_evidya_8_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="410" tvg-name="PM e Vidya 09" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_9.png" tvg-chno="410" group-title="Educations",PM e Vidya 09
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/evidya_9_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="411" tvg-name="PM e Vidya 10" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_10.png" tvg-chno="411" group-title="Educations",PM e Vidya 10
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/evidya_10_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic1" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png" group-title="News", INDIA TODAY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1365,6 +1430,9 @@ https://toxicify.pro/peace/kfc/90.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=1
 https://toxicify.pro/peace/kfc/1.mpd
+
+#EXTINF:-1 tvg-id="493" tvg-name="India Today" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png" tvg-chno="493" group-title="News",India Today
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/India_Today_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic206" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-843-j5m9oyzc-v1/imageContent-843-j5m9oyzc-m1.png" group-title="News", CNN News18
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1374,10 +1442,13 @@ https://toxicify.pro/peace/kfc/1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=206
 https://toxicify.pro/peace/kfc/206.mpd
 
+#EXTINF:-1 tvg-id="492" tvg-name="CNN NEWS 18" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" tvg-chno="492" group-title="News",CNN NEWS 18
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/CNN_NEWS_18_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="193" tvg-name="CNN" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" tvg-chno="193" group-title="News",CNN
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/CNN_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="Toxic189" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8012-j7a2doxc-v1/imageContent-8012-j7a2doxc-m1.png" group-title="English News", NewsX
+#EXTINF:-1 tvg-id="Toxic189" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8012-j7a2doxc-v1/imageContent-8012-j7a2doxc-m1.png" group-title="News", NewsX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1393,6 +1464,9 @@ https://toxicify.pro/peace/kfc/189.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=591
 https://toxicify.pro/peace/kfc/591.mpd
 
+#EXTINF:-1 tvg-id="491" tvg-name="Mirror Now" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mirror_Now.png" tvg-chno="491" group-title="News",Mirror Now
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Mirror_Now_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic255" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png" group-title="News", WION
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1400,6 +1474,9 @@ https://toxicify.pro/peace/kfc/591.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=255
 https://toxicify.pro/peace/kfc/255.mpd
+
+#EXTINF:-1 tvg-id="412" tvg-name="Wion" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png" tvg-chno="412" group-title="News",Wion
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Wion_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic72" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png" group-title="News", REPUBLIC TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1423,6 +1500,9 @@ https://toxicify.pro/peace/kfc/304.mpd
 #EXTINF:-1 tvg-id="143" tvg-name="CNBC Tv18 Prime HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" tvg-chno="143" group-title="News",CNBC Tv18 Prime HD
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/CNBC_Tv18_Prime_HD_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-id="489" tvg-name="CNBC Tv 18" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" tvg-chno="489" group-title="News",CNBC Tv 18
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/CNBC_Tv_18_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic324" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_Thumbnail.png-v4/DDIND_Thumbnail.png.png" group-title="News", DD India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1430,6 +1510,9 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/CNBC_Tv18_Prime_HD_MOB/Fallback/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=324
 https://toxicify.pro/peace/kfc/324.mpd
+
+#EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png" tvg-chno="528" group-title="News",DD India
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/DD_India_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic93" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-294-j5ji8n08-v1/imageContent-294-j5ji8n08-m1.png" group-title="News", NDTV Profit Prime
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1493,6 +1576,12 @@ https://toxicify.pro/peace/kfc/188.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=190
 https://toxicify.pro/peace/kfc/190.mpd
 
+#EXTINF:-1 tvg-id="494" tvg-name="AL Jazeera" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" tvg-chno="494" group-title="News",AL Jazeera
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/AL_Jazeera_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="495" tvg-name="News X" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_X.png" tvg-chno="495" group-title="News",News X
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/News_X_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic157" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-548-j5kxtaig-v1/imageContent-548-j5kxtaig-m1.png" group-title="News", Channel News Asia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1524,6 +1613,9 @@ https://toxicify.pro/peace/kfc/65.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=60
 https://toxicify.pro/peace/kfc/60.mpd
+
+#EXTINF:-1 tvg-id="496" tvg-name="dw" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png" tvg-chno="496" group-title="News",DW
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/dw_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic105" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-324-j5jl5hp4-v2/imageContent-324-j5jl5hp4-m2.png" group-title="News", Australia TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1648,6 +1740,9 @@ https://toxicify.pro/peace/kfc/119.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=127
 https://toxicify.pro/peace/kfc/127.mpd
 
+#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Tamil.png" tvg-chno="290" group-title="Kids",sonic Tamil
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/sonic_Tamil_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic45" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Kids", SONY YAY!
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 
@@ -1755,6 +1850,9 @@ https://toxicify.pro/peace/kfc/184.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=341
 https://toxicify.pro/peace/kfc/341.mpd
 
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-chno="463" group-title="Knowledge",Discovery HD World
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Discovery_HD_World_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic219" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png" group-title="Knowledge", Discovery Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1840,6 +1938,9 @@ https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=126
 https://toxicify.pro/peace/kfc/126.mpd
 
+#EXTINF:-1 tvg-id="481" tvg-name="Epic" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" tvg-chno="481" group-title="Knowledge",Epic
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Epic_HD_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic367" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png" group-title="Lifestyle", Star Life HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1863,6 +1964,9 @@ https://toxicify.pro/peace/kfc/646.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=480
 https://toxicify.pro/peace/kfc/480.mpd
+
+#EXTINF:-1 tvg-id="479" tvg-name="TLC HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" tvg-chno="479" group-title="Lifestyle",TLC HD
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/TLC_HD_World_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic135" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png" group-title="Lifestyle", TLC
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2028,6 +2132,12 @@ https://toxicify.pro/peace/kfc/517.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=39
 https://toxicify.pro/peace/kfc/39.mpd
+
+#EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" tvg-chno="440" group-title="Music",9X Jalwa
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/9X_Jalwa_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" tvg-chno="441" group-title="Music",9x Jhakaas
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/9x_Jhakaas_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic733" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Showbox_Thumbnail-v2/Showbox_Thumbnail.png" group-title="Music", Showbox
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2259,6 +2369,9 @@ https://toxicify.pro/peace/kfc/830.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=181
 https://toxicify.pro/peace/kfc/181.mpd
 
+#EXTINF:-1 tvg-id="486" tvg-name="Bhojpuri Cinema" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" tvg-chno="486" group-title="Hindi",Bhojpuri Cinema
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Bhojpuri_Cinema_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic431" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/OSMOV_Thumbnail-v3/OSMOV_Thumbnail.png" group-title="Hindi", Oscar Movies Bhojpuri.
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2298,6 +2411,9 @@ https://toxicify.pro/peace/kfc/1165.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=79
 https://toxicify.pro/peace/kfc/79.mpd
+
+#EXTINF:-1 tvg-id="530" tvg-name="News18 UP" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_UP.png" tvg-chno="530" group-title="Hindi",News18 UP
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/ETV_UP_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic838" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png" group-title="Hindi", Kashish News
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2339,6 +2455,9 @@ https://toxicify.pro/peace/kfc/20.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=30
 https://toxicify.pro/peace/kfc/30.mpd
 
+#EXTINF:-1 tvg-id="512" tvg-name="India News UP" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png" tvg-chno="512" group-title="News",India News UP
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/India_News_UP_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic613" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12252-j9qrkgu8-v3/imageContent-12252-j9qrkgu8-m2.png" group-title="News", News State UP Uttarakhand
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2362,6 +2481,15 @@ https://toxicify.pro/peace/kfc/827.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=973
 https://toxicify.pro/peace/kfc/973.mpd
+
+#EXTINF:-1 tvg-id="506" tvg-name="Sahara Samay Rastriya" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" tvg-chno="506" group-title="News",Sahara Samay Rastriya
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sahara_Samay_Rastriya_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="507" tvg-name="SAHARA SAMAY MP" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" tvg-chno="507" group-title="News",SAHARA SAMAY MP
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/SAHARA_SAMAY_MP_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="508" tvg-name="SAHARA SAMAY UP" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" tvg-chno="508" group-title="News",SAHARA SAMAY UP
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/SAHARA_SAMAY_UP_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="509" tvg-name="Sahara Samay Bihar" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" tvg-chno="509" group-title="News",Sahara Samay Bihar
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sahara_Samay_Bihar_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic1267" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HNNNEWS_Thumbnail-v1/HNNNEWS_Thumbnail.png" group-title="Others", HNN News
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2411,6 +2539,9 @@ https://toxicify.pro/peace/kfc/317.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=203
 https://toxicify.pro/peace/kfc/203.mpd
 
+#EXTINF:-1 tvg-id="529" tvg-name="News18 MP" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_MP.png" tvg-chno="529" group-title="Hindi",News18 MP
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/ETV_MP_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic512" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11981-j9lunvjs-v1/imageContent-11981-j9lunvjs-m1.png" group-title="Hindi", Zee Madhya Pradesh Chattisgarh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2426,6 +2557,9 @@ https://toxicify.pro/peace/kfc/512.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=27
 https://toxicify.pro/peace/kfc/27.mpd
+
+#EXTINF:-1 tvg-id="503" tvg-name="IBC24" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBC-24.png" tvg-chno="503" group-title="News",IBC 24
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/IBC-24_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic652" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25494-ji1a6ym0-v2/imageContent-25494-ji1a6ym0-m2.png" group-title="Hindi", Bansal News
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2450,6 +2584,9 @@ https://toxicify.pro/peace/kfc/698.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=222
 https://toxicify.pro/peace/kfc/222.mpd
+
+#EXTINF:-1 tvg-id="515" tvg-name="India News MP" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png" tvg-chno="515" group-title="News",India News MP
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/India_News_MP_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic643" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31191-jldnwhhs-v1/imageContent-31191-jldnwhhs-m1.png" group-title="News", News State MP CG
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2539,6 +2676,9 @@ https://toxicify.pro/peace/kfc/1315.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=330
 https://toxicify.pro/peace/kfc/330.mpd
 
+#EXTINF:-1 tvg-id="536" tvg-name="DD Madhya Pradesh" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" tvg-chno="536" group-title="Hindi",DD Madhya Pradesh
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/DD_Madhya_Pradesh_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic205" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23226-jeyiac80-v1/imageContent-23226-jeyiac80-m1.png" group-title="Hindi", News18 Rajasthan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2546,6 +2686,17 @@ https://toxicify.pro/peace/kfc/330.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=205
 https://toxicify.pro/peace/kfc/205.mpd
+
+#EXTINF:-1 tvg-id="534" tvg-name="Dillagi TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dillagi_TV.png" tvg-chno="534" group-title="Hindi",Dillagi TV
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Dillagi_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="535" tvg-name="Dhamaal TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png" tvg-chno="535" group-title="Hindi",Dhamaal TV
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Dhamaal_TV_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="532" tvg-name="Dabangg" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png" tvg-chno="532" group-title="Hindi",Dabangg
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Dabangg_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="531" tvg-name="News18 RAJASTHAN" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" tvg-chno="531" group-title="Hindi",News18 RAJASTHAN
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/ETV_RAJASTHAN_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic583" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12158-j9pd883k-v1/imageContent-12158-j9pd883k-m1.png" group-title="Hindi", Zee Rajasthan News
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2570,6 +2721,9 @@ https://toxicify.pro/peace/kfc/650.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=14
 https://toxicify.pro/peace/kfc/14.mpd
+
+#EXTINF:-1 tvg-id="513" tvg-name="India News Rajasthan" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" tvg-chno="513" group-title="News",India News Rajasthan
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/India_News_Rajasthan_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic870" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58492-kixkb2ug-v1/imageContent-58492-kixkb2ug-m1.png" group-title="Hindi", Jan TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2602,6 +2756,9 @@ https://toxicify.pro/peace/kfc/1152.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=332
 https://toxicify.pro/peace/kfc/332.mpd
+
+#EXTINF:-1 tvg-id="538" tvg-name="DD Rajasthan (Jaipur)" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" tvg-chno="538" group-title="Hindi",DD Rajasthan (Jaipur)
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/DD_Rajasthan_Jaipur_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic354" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11426-j9jqror4-v3/imageContent-11426-j9jqror4-m3.png" group-title="Hindi", News18 Jammu Kashmir Ladakh Himachal
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2711,6 +2868,9 @@ https://toxicify.pro/peace/kfc/469.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=248
 https://toxicify.pro/peace/kfc/248.mpd
 
+#EXTINF:-1 tvg-id="414" tvg-name="Zee Yuva" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" tvg-chno="414" group-title="Marathi",Zee Yuva
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Yuva_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic658" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png" group-title="Marathi", Sony Marathi
 https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
 
@@ -2787,6 +2947,9 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/IBN_Lokmat_MOB/Fallback/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=261
 https://toxicify.pro/peace/kfc/261.mpd
+
+#EXTINF:-1 tvg-id="442" tvg-name="Zee 24 Taas" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" tvg-chno="442" group-title="Marathi",Zee 24 Taas
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_24_Taas_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic546" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12056-j9o5hia8-v1/imageContent-12056-j9o5hia8-m1.png" group-title="Marathi", Saam TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2981,6 +3144,9 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/ABP_Ananda_MOB/Fallback/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=258
 https://toxicify.pro/peace/kfc/258.mpd
+
+#EXTINF:-1 tvg-id="464" tvg-name="24 Ghanta TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" tvg-chno="464" group-title="Bengali",24 Ghanta TV
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/24_Ghanta_TV_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic381" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11533-j9jtxqgo-v1/imageContent-11533-j9jtxqgo-m1.png" group-title="Bengali", Kolkata TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3241,6 +3407,9 @@ https://toxicify.pro/peace/kfc/1168.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=636
 https://toxicify.pro/peace/kfc/636.mpd
+
+#EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-chno="413" group-title="Telugu",Zee Cinemalu
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Cinemalu_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic252" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="Telugu", Zee Cinemalu
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3585,6 +3754,9 @@ https://toxicify.pro/peace/kfc/257.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=674
 https://toxicify.pro/peace/kfc/674.mpd
 
+#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" tvg-chno="429" group-title="Tamil",Colors Tamil HD
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Colors_Tamil_HD_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic418" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" group-title="Tamil", Colors Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3600,6 +3772,9 @@ https://toxicify.pro/peace/kfc/418.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=708
 https://toxicify.pro/peace/kfc/708.mpd
+
+#EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-chno="419" group-title="Telugu",Jaya TV HD
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Jaya_TV_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic200" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="Tamil", Kalaignar TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3724,6 +3899,9 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/KTV_HD_MOB/Fallback/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=201
 https://toxicify.pro/peace/kfc/201.mpd
 
+#EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" tvg-chno="417" group-title="Tamil",J Movies
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/J_Movies_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic1182" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="Movies", Zee Thirai HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3771,6 +3949,9 @@ https://toxicify.pro/peace/kfc/524.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=198
 https://toxicify.pro/peace/kfc/198.mpd
+
+#EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Plus.png" tvg-chno="418" group-title="Tamil",Jaya Plus
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Jaya_Plus_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic509" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11942-j9lthi34-v1/imageContent-11942-j9lthi34-m1.png" group-title="Tamil", Polimer News
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3851,6 +4032,9 @@ https://toxicify.pro/peace/kfc/1317.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=199
 https://toxicify.pro/peace/kfc/199.mpd
+
+#EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" tvg-chno="420" group-title="Tamil",Jaya Max
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Jaya_Max_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic425" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title="Tamil", Raj Musix
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4289,6 +4473,9 @@ https://toxicify.pro/peace/kfc/586.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=303
 https://toxicify.pro/peace/kfc/303.mpd
 
+#EXTINF:-1 tvg-id="490" tvg-name="CNBC Bazaar (MNO)" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" tvg-chno="490" group-title="Gujarat",CNBC Bazaar
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/CNBC_Bazaar_MNO_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic6" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-15-j5f97j2o-v4/imageContent-15-j5f97j2o-m3.png" group-title="Gujarati", News18 Gujarati
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4661,6 +4848,9 @@ https://toxicify.pro/peace/kfc/211.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=370
 https://toxicify.pro/peace/kfc/370.mpd
 
+#EXTINF:-1 tvg-id="465" tvg-name="Jaihind tv" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaihind_tv.png" tvg-chno="465" group-title="Malayalam",Jaihind tv
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Jaihind_tv_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic576" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MEON_Thumbnail-v3/MEON_Thumbnail.png" group-title="Malayalam", Media One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4869,6 +5059,9 @@ https://toxicify.pro/peace/kfc/366.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=13
 https://toxicify.pro/peace/kfc/13.mpd
 
+#EXTINF:-1 tvg-id="516" tvg-name="India News Haryana" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Haryana.png" tvg-chno="516" group-title="News",India News Haryana
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/India_News_Haryana_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic371" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11502-j9jtlmi8-v3/imageContent-11502-j9jtlmi8-m4.png" group-title="News", Janta TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4884,6 +5077,9 @@ https://toxicify.pro/peace/kfc/371.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=401
 https://toxicify.pro/peace/kfc/401.mpd
+
+#EXTINF:-1 tvg-id="511" tvg-name="Mh One News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mh_One_News.png" tvg-chno="511" group-title="News",Mh One News
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Mh_One_News_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic787" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48498-k3zd4bsg-v1/imageContent-48498-k3zd4bsg-m3.png" group-title="Punjabi", ANB NEWS
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4980,6 +5176,9 @@ https://toxicify.pro/peace/kfc/936.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=193
 https://toxicify.pro/peace/kfc/193.mpd
+
+#EXTINF:-1 tvg-id="517" tvg-name="Chardikla Time TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" tvg-chno="517" group-title="Punjabi",Chardikla Time TV
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Chardikla_Time_TV_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic773" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47242-k1vmve74-v1/imageContent-47242-k1vmve74-m2.png" group-title="Punjabi", PTC Simran
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5252,6 +5451,12 @@ https://toxicify.pro/peace/kfc/912.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=807
 https://toxicify.pro/peace/kfc/807.mpd
+
+#EXTINF:-1 tvg-id="422" tvg-name="In Goa 24x7" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/InGoa24x7.png" tvg-chno="422" group-title="Marathi",In Goa 24x7
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/InGoa24x7_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="421" tvg-name="GOA 365" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goa365.png" tvg-chno="421" group-title="Marathi",GOA 365
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Goa365_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Toxic782" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47615-k2jwaqug-v1/imageContent-47615-k2jwaqug-m3.png" group-title="Kannada", Namma TV
 #KODIPROP:inputstream=inputstream.adaptive

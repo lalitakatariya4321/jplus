@@ -2054,6 +2054,9 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/MTV_MOB/Fallback/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=103
 https://toxicify.pro/peace/kfc/103.mpd
 
+#EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-chno="2753" group-title="Music",YRF Music
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/YRF_Music_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="Toxic139" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png" group-title="Music", 9XM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive

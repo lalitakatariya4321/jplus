@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz
+#EXTINF:-1 tvg-id="ts187" group-title="Entertainment", tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors Infinity HD.png", Colors Infinity HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M15/PpVoVXd2juoeKAfCPw","kid":"XijcbCdhWjqJ3JR9yqXNGA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd|Cookie=hdntl=exp=1799999999~acl=%2f*~data=hdntl~hmac=3a80a84faec37a0808fc34e6bc6ceebf1865e79443e5d17ffc1f001960d602de
+
+
+#EXTINF:-1 tvg-id="ts245" group-title="Movies", tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/STAR GOLD HD.png", STAR GOLD HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vreU5e5t0uxpkiAE9wM+CQ","kid":"ax2uznS9VZ6euwH9BOv8vQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd|Cookie=hdntl=exp=1714909077~acl=%2f*~data=hdntl~hmac=3a80a84faec37a0808fc34e6bc6ceebf1865e79443e5d17ffc1f001960d602de

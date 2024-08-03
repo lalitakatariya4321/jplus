@@ -46,8 +46,6 @@ jobs:
 
       - name: push changes
         uses: ad-m/github-push-action@v0.8.0
-        with: |
-          force: true
+        with:
           github_token: ${{ secrets.ACCESSTOKEN }}
           branch: master
-    

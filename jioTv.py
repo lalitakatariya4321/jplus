@@ -2,7 +2,7 @@ import requests;
 import json;
 
 global allChannels
-m3ustr = ''
+m3ustr = '#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"\n'
 
 apiUrl="https://fox.toxic-gang.xyz/jplus/key/$ToReplace"
 

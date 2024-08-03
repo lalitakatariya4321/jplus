@@ -1,5 +1,0 @@
-#EXTINF:-1 tvg-id="143" group-title="Business" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBC Tv18 Prime HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3VO6saQvQa6PClyP0ob0Vg", "kid": "udSs7cZsVmCh4GGXpVvM0g"}], "type": "temporary"}
-#EXTHTTP:{"Cookie":"__hdnea__=st=1722668863~exp=1722755263~acl=/*~hmac=7c214dcff6db17f6f8363d90768b4f4d1d32a6c7dee4d64962e2f41a1b513b8a"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_BTS/output/index.mpd|Cookie:__hdnea__=st=1722668863~exp=1722755263~acl=/*~hmac=7c214dcff6db17f6f8363d90768b4f4d1d32a6c7dee4d64962e2f41a1b513b8a
